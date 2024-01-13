@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: Graduation-Cap-PNG-Download-Image.png
 title: "RadGrad"
 date: 2024/01/13
 published: true
