@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Carer Goals"
+title: "Javascript Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-13
+date: 2024-01-24
 published: true
 labels:
   - Software Engineering
-  - Student
-  - gain skills
+  - Reflect
+  - Javascript
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
