@@ -1,6 +1,6 @@
 ---
 layout: essay
-image: img/Javascript.jpg
+image: img/Javascript.jpg.png
 type: essay
 title: "My Journey with Javascript: From Novice to future Expert"
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 ---
 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/Javascript.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/Javascript.jpg.png">
 
 # “My Journey with Javascript: From Novice to future Expert”
 
