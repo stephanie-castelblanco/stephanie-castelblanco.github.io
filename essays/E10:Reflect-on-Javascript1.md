@@ -1,10 +1,11 @@
 ---
 layout: essay
+image: 
 type: essay
 title: "My Journey with Javascript: From Novice to future Expert"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
