@@ -14,8 +14,7 @@ labels:
 ---
 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
+<img width="100px" class="rounded float-start pe-4" src="../img/Javascript.jpg">
 
 # “My Journey with Javascript: From Novice to future Expert”
 
