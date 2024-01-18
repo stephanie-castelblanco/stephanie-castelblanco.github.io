@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: “My Journey with Javascript: From Novice to future Expert”
-# All dates must be YYYY-MM-DD format!
+// # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
 labels:
@@ -13,7 +13,7 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-“My Journey with Javascript: From Novice to future Expert”
+# “My Journey with Javascript: From Novice to future Expert”
 
 "I found learning JavaScript to be a stimulating and engaging experience. Fortunately, my previous exposure to this language proved helpful during this module. The modules provided an excellent opportunity for beginners to learn fundamental concepts and practices of JavaScript. However, after completing sixty exercises, I was exhausted and found them quite challenging and exhaustive. Although I enjoyed the materials, I wished we had more time to practice with a tutor and review the basics. Despite this, I am incredibly grateful for the opportunity to study these modules and plan to delve even deeper into them when the chaos of the start of classes slows down. 
 Overall, this module provides a fantastic foundation for anyone looking to learn JavaScript and gain skills and confidence. The materials were well-organized and comprehensive, and I appreciate the amount of effort that went into creating them. The videos did a fantastic job explaining the exercises; if I ever meet someone who wants to learn JavaScript, freeCodeCamp will be my recommendation. It motivated me to learn more about JavaScript. 
