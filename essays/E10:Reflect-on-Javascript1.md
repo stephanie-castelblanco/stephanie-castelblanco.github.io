@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: essay \n
 type: essay
 title: “My Journey with Javascript: From Novice to future Expert”
 // # All dates must be YYYY-MM-DD format!
