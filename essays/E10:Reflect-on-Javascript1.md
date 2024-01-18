@@ -1,7 +1,7 @@
 ---
 layout: essay 
 type: essay
-title: “My Journey with Javascript: From Novice to future Expert”
+title: My Journey with Javascript: From Novice to future Expert
 date: 2024-01-17
 published: true
 labels:
