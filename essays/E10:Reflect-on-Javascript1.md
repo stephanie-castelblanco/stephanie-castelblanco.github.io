@@ -9,7 +9,7 @@ labels:
   - Learning
   - Reflect
   - Javascript
----
+
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 # “My Journey with Javascript: From Novice to future Expert”
