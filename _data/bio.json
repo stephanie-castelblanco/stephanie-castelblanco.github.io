@@ -33,7 +33,8 @@
       "studyType": "B.S.",
       "startDate": "2024-01-11",
       "endDate": "Present",
-      "courses": [ "Software Engineering I"]
+      "courses": "Software Engineering I",
+      
       "institution": "leeward community college, Pearl City, HI", 
       "area": "Computer Science",
       "studyType": "A.S.",
