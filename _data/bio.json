@@ -33,21 +33,20 @@
       "studyType": "B.S.",
       "startDate": "2024-01-11",
       "endDate": "Present",
-      "courses": [ Software Engineering I
-      ]
+      "courses": [ "Software Engineering I"]
       "institution": "leeward community college, Pearl City, HI", 
       "area": "Computer Science",
       "studyType": "A.S.",
       "startDate": "2023-20-12",
       "endDate": "Present",
-      "courses": [ CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I
+      "courses": [ "CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I"]
       ]
       "institution": "leeward community college, Pearl City, HI", 
       "area": "liberal arts focused in business Business Administration and Management, General",
       "studyType": "A.S.",
       "startDate": "2019-1-05",
       "endDate": "2021",
-      "courses": [ Business, Intro to Managerial Accounting, Intro to Financial Accounting, Principles of Macroeconomics I, Principles of Microeconomics II 
+      "courses": ["Business, Intro to Managerial Accounting, Intro to Financial Accounting, Principles of Macroeconomics I, Principles of Microeconomics II"]
     }
   ],
 
