@@ -23,7 +23,8 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Javascript", "spanish, analytical thinking, empathy, responsability, confidence, " ]
+      "keywords": [ "Javascript", "spanish, analytical thinking, empathy, responsability, confidence, " 
+      ]
     }
   ],
   "education": [
@@ -47,7 +48,8 @@
       "studyType": "A.S.",
       "startDate": "2019-05-01",
       "endDate": "2021",
-      "courses": ["Business, Intro to Managerial Accounting, Intro to Financial Accounting, Principles of Macroeconomics I, Principles of Microeconomics II" ]
+      "courses": ["Business, Intro to Managerial Accounting, Intro to Financial Accounting, Principles of Macroeconomics I, Principles of Microeconomics II"
+      ]
     }
   ],
   "references": [
