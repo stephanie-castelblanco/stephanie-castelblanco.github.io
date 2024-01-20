@@ -30,14 +30,26 @@
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
-  "education": [
+  "education 1": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Software Engineering I"
+      ]
+    }
+  ],
+
+    "education 2": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "courses": [ "CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I"
       ]
     }
   ],
