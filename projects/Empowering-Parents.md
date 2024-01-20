@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/learn.jpg
+image: img/learn.png
 title: "Empowering Parents: Computer Literacy Program"
 date: 2013
 published: false
@@ -13,7 +13,7 @@ summary: "Empowering Parents" project provides computer skills to parents, enhan
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
-<img class="img-fluid" src="../img/learn.jpg
+<img class="img-fluid" src="../img/learn.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
