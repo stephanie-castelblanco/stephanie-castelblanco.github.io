@@ -26,7 +26,7 @@
       "keywords": [ "C", "C++", "Javascript", "spanish" ]
     },
   ],
-  "education 1": [
+  "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
@@ -38,7 +38,6 @@
     }
   ],
 
-    
   "references": [
     {
       "name": "Available upon request"
