@@ -40,6 +40,7 @@
       "startDate": "2023-20-12",
       "endDate": "Present",
       "courses": "CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I",
+    
       "institution": "leeward community college, Pearl City, HI", 
       "area": "liberal arts focused in business Business Administration and Management, General",
       "studyType": "A.S.",
@@ -48,7 +49,6 @@
       "courses": ["Business, Intro to Managerial Accounting, Intro to Financial Accounting, Principles of Macroeconomics I, Principles of Microeconomics II"]
     }
   ],
-
   "references": [
     {
       "name": "Available upon request"
