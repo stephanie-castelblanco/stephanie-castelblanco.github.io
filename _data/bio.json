@@ -22,34 +22,90 @@
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": [ "Javascript", "spanish, analytical thinking, empathy, responsability, confidence, " 
-      ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "spanish" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected fall, 2025)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2024-01-11",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": "Software Engineering I",
-      
-      "institution": "leeward community college, Pearl City, HI", 
-      "area": "Computer Science",
-      "studyType": "A.S.",
-      "startDate": "2023-12-20",
-      "endDate": "Present",
-      "courses": "CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I",
-    
-      "institution": "leeward community college, Pearl City, HI", 
-      "area": "liberal arts focused in business Business Administration and Management, General",
-      "studyType": "A.S.",
-      "startDate": "2019-05-01",
-      "endDate": "2021",
-      "courses": ["Business, Intro to Managerial Accounting, Intro to Financial Accounting, Principles of Macroeconomics I, Principles of Microeconomics II"
+      "courses": [
       ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
@@ -58,3 +114,5 @@
     }
   ]
 }
+
+
