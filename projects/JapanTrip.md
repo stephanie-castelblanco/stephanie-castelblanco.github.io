@@ -36,6 +36,7 @@ For future travelers interested in Japan, the project recommends thorough resear
 List of places to visit:
 This project was a success in achieving its objectives and fulfilling its purpose. It provided an enriching and diverse experience of Japan and a deeper understanding of its culture and history. This project also revealed some of the similarities and differences among the three cities:
 Tokyo: The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises.
+
 Here are some popular things that I did as a tourist in Tokyo:
 1.	Visit Shibuya Crossing:
 •	Experience the iconic Shibuya Crossing, one of the busiest pedestrian crossings in the world.
@@ -64,6 +65,7 @@ Here are some popular things that I did as a tourist in Tokyo:
 •	Explore museums such as teamLab Borderless, and the Ghibli Museum.
 
 Osaka: The second largest city and the economic center of Japan, Osaka is known for its friendly and outgoing people, it’s delicious street food, and its vibrant and historical landmarks. It is a city that is full of energy and fun, as well as history and heritage.
+
 1.	Visit Osaka Castle:
 •	Explore Osaka Castle, a symbol of the city's rich history.
 •	Walk through the castle grounds and enjoy panoramic views from the observation deck.
@@ -83,7 +85,27 @@ Osaka: The second largest city and the economic center of Japan, Osaka is known 
 •	Spend a day at Universal Studios Japan, enjoying theme park rides and attractions.
 
 Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that preserves and showcases the beauty and elegance of Japanese culture, art, and architecture. It invites visitors to slow down and appreciate the finer things in life and to reflect and meditate.
+
+1. Fushimi Inari Taisha:
+• Famous for its thousands of vermillion torii gates, this Shinto shrine is dedicated to Inari, the god of rice and prosperity.
+
+2. Kiyomizu-dera: 
+• A UNESCO World Heritage Site, this wooden temple provides panoramic views of Kyoto from its wooden terrace. The temple is particularly beautiful during cherry blossom season.
+
+3. Gion District:
+• Known for its traditional wooden machiya houses, Gion is Kyoto's historic geisha district. Stroll through its narrow streets and experience the traditional atmosphere.
+
+4. Arashiyama Bamboo Grove:
+• A mesmerizing bamboo forest in the Arashiyama district, along with the iconic Togetsukyo Bridge and the Iwatayama Monkey Park.
+
+5. Ryoan-ji Temple: 
+• Famous for its rock garden, Ryoan-ji is a Zen temple that provides a serene and contemplative atmosphere.
+
+6. Nijo Castle:
+• A historic castle with beautiful gardens, Nijo Castle is known for its "nightingale floors" that chirp when walked upon, providing security measures.
+
 Observation: Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
+
 Cultural Quirks:
 Encounter: The perception of Japanese people as a little weird may be influenced by cultural quirks and unique subcultures.
 Observation: Exploring districts like Harajuku with its eccentric fashion or encountering themed cafes with unconventional themes allowed a glimpse into Japan's diverse and dynamic subcultures. While different from the norm, these cultural expressions contribute to the vibrancy and individuality found within Japanese society.
