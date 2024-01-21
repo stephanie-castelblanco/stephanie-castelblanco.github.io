@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/pocker.png
 title: "Pocker Connections"
 date: 2014
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Foster a sense of community through shared card-playing experiences."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/pocker.png">  
 
 Project Overview:
 understanding that seniors often feel lonely and disconnected from the community. That's why "Card Connections for Seniors" is such an important project. It aims to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play cards. With this project, seniors can connect with each other, build friendships, and maintain mental agility through card games, all in a supportive and engaging environment. I was fortunate enough to assist in this project during my high school years, and I can say from personal experience that it’s gratifying to see the happiness it brings to seniors. This project facilitates connections between seniors and younger participants for a mutually enjoyable experience.
@@ -49,18 +49,13 @@ Resources Needed:
 Card sets for poker.
 Printed materials with game rules and strategies.
 Volunteers to assist.
-Collaboration with local schools or youth organizations for inter-generational events.
-Sustainability Plan: Establish partnerships with local businesses, community organizations, and volunteers to ensure the sustainability of the project. Encourage participants to take on leadership roles, such as organizing card sessions or mentoring newcomers, to foster a sense of ownership within the community.
-"Card Connections for Seniors" aims to create a welcoming and enjoyable space where seniors can connect, have fun, and keep their minds active through the timeless enjoyment of playing cards.
-
-
 
 
 
 <hr>
 
 <pre>
-xxxxxx
+"Card Connections for Seniors" aims to create a welcoming and enjoyable space where seniors can connect, have fun, and keep their minds active through the timeless enjoyment of playing cards.
 
 </pre>
 
