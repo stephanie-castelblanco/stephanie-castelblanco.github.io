@@ -7,7 +7,8 @@ date: 2013
 published: true
 labels:
   - computers
-  - software 
+  - software
+  - parents
 summary: "project provides computer skills to parents, enhancing digital skills, and online safety practices."
 ---
 
