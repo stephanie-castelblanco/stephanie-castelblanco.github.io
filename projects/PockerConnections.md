@@ -10,7 +10,7 @@ labels:
   - seniors
   - social interaction
   - connection
-summary: "Encourage a feeling of unity by participating in communal card games."
+summary: " Encourage a feeling of unity by participating in communal card games."
 ---
 
 <img class="img-fluid" src="../img/pocker.png">  
