@@ -16,7 +16,7 @@ summary: "Foster a sense of community through shared card-playing experiences."
 <img class="img-fluid" src="../img/pocker.png">  
 
 Project Overview:
-understanding that seniors often feel lonely and disconnected from the community. That's why "Card Connections for Seniors" is such an important project. It aims to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play cards. With this project, seniors can connect with each other, build friendships, and maintain mental agility through card games, all in a supportive and engaging environment. I was fortunate enough to assist in this project during my high school years, and I can say from personal experience that it’s gratifying to see the happiness it brings to seniors. This project facilitates connections between seniors and younger participants for a mutually enjoyable experience.
+Aims to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play cards. With this project, seniors can connect with each other, build friendships, and maintain mental agility through card games, all in a supportive and engaging environment. I was fortunate enough to assist in this project during my high school years, and I can say from personal experience that it’s gratifying to see the happiness it brings to seniors. This project facilitates connections between seniors and younger participants for a mutually enjoyable experience.
 
 Objectives:
 Provide seniors with regular opportunities for social interaction and connection.
@@ -61,4 +61,3 @@ Volunteers to assist.
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
