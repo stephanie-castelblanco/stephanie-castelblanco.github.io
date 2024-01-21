@@ -9,7 +9,7 @@ labels:
   - computers
   - software
   - parents
-summary: "Project provides computer skills to parents, enhancing digital skills, and online safety practices."
+summary: "Project provides computer skills to parents, enhancing digital skills, and online safety practices for parents."
 ---
 
 <img class="img-fluid" src="../img/learn.png">
