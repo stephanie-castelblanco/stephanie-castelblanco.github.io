@@ -10,6 +10,7 @@ labels:
   - software 
 
 summary: "Empowering Parents" project provides computer skills to parents, enhancing digital skills, and online safety practices."
+
 ---
 
 <img class="img-fluid" src="../img/learn.png">
