@@ -9,18 +9,17 @@ labels:
   - computers
   - software
   - parents
-summary: "project provides computer skills to parents, enhancing digital skills, and online safety practices."
+summary: "Project provides computer skills to parents, enhancing digital skills, and online safety practices."
 ---
 
 <img class="img-fluid" src="../img/learn.png">
 
 Empowering Parents: to lern to use computers 
 
-The "Empowering Parents" project is an innovative initiative that seeks to bridge the digital gap by empowering parents with essential computer skills. It recognizes the importance of parental involvement in students' education and creates a supportive learning environment for parents to engage with their children's education. By providing basic to intermediate computer literacy skills, this project enhances digital skills that align with the technological advancements of today's society.
+The "Empowering Parents" project is a groundbreaking initiative dedicated to closing the digital divide by providing crucial computer skills to parents. Recognizing the pivotal role parents play in their children's education, the project creates a nurturing learning environment to facilitate their engagement. Focused on delivering basic to intermediate computer literacy skills, the project equips parents with the digital knowledge needed to navigate today's technological landscape.
 
-I had the opportunity to be a part of this beautiful project and was able to assist and teach high school parents to learn to use computers. We helped parents boost their confidence in utilizing computer technology and reinforce their learning through regular workshops, online learning modules, community events, and hands-on training sessions. The project also educates parents on online safety practices for themselves and their children, thus promoting digital safety.
-By creating a supportive community, the project establishes a platform for parents to connect, share experiences, and support each other in their computer literacy journey through peer-to-peer learning and mentorship. The program evaluates and assesses the impact of the project through pre-and-post assessments, feedback surveys, and monitoring engagement.
+In my role within this impactful project, I had the privilege of actively contributing to the teaching and assistance provided to high school parents learning to use computers. Our efforts aimed to boost their confidence in utilizing technology, with a comprehensive approach involving workshops, online modules, community events, and hands-on training sessions. An integral aspect of the project involves educating parents on online safety practices, fostering awareness of digital safety for both themselves and their children.
 
-The project requires the collaboration of workshop facilitators or trainers with expertise in computer literacy, access to devices for hands-on training, an online learning platform or website for module delivery, collaboration with teachers and school staff, and proper promotional materials and communication channels to reach parents.
+The project goes beyond skill development; it fosters a sense of community among parents. Through peer-to-peer learning and mentorship, a supportive platform is established for parents to connect, share experiences, and bolster each other on their computer literacy journey. Continuous assessment through pre-and-post evaluations, feedback surveys, and engagement monitoring ensures the project's impact is effectively measured.
 
-The program aims to achieve sustainability by establishing partnerships with local organizations and volunteers encouraging a train-the-trainer model where participants can become mentors for future sessions. In the long run, this project aims to create a more inclusive and digitally connected school community by empowering parents with computer literacy skills.
+For successful implementation, collaboration with workshop facilitators, access to devices, an online learning platform, coordination with school staff, and robust promotional strategies are essential. The program's sustainability is emphasized through partnerships with local organizations, volunteer involvement, and a train-the-trainer model, empowering participants to become mentors for future sessions. Ultimately, the "Empowering Parents" project envisions a more inclusive and digitally connected school community shaped by the empowerment of parents with essential computer literacy skills.
