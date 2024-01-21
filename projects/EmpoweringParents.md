@@ -8,9 +8,7 @@ published: true
 labels:
   - computers
   - software 
-
 summary: "Empowering Parents" project provides computer skills to parents, enhancing digital skills, and online safety practices."
-
 ---
 
 <img class="img-fluid" src="../img/learn.png">
@@ -23,4 +21,5 @@ I had the opportunity to be a part of this beautiful project and was able to ass
 By creating a supportive community, the project establishes a platform for parents to connect, share experiences, and support each other in their computer literacy journey through peer-to-peer learning and mentorship. The program evaluates and assesses the impact of the project through pre-and-post assessments, feedback surveys, and monitoring engagement.
 
 The project requires the collaboration of workshop facilitators or trainers with expertise in computer literacy, access to devices for hands-on training, an online learning platform or website for module delivery, collaboration with teachers and school staff, and proper promotional materials and communication channels to reach parents.
+
 The program aims to achieve sustainability by establishing partnerships with local organizations and volunteers encouraging a train-the-trainer model where participants can become mentors for future sessions. In the long run, this project aims to create a more inclusive and digitally connected school community by empowering parents with computer literacy skills.
