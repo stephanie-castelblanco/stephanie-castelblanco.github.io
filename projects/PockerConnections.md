@@ -10,13 +10,17 @@ labels:
   - seniors
   - social interaction
   - connection
-summary: "Foster a sense of community through shared card-playing experiences."
+summary: "project encourage a feeling of unity by participating in communal card games."
 ---
 
 <img class="img-fluid" src="../img/pocker.png">  
 
 Project Overview:
-Aims to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play cards. With this project, seniors can connect with each other, build friendships, and maintain mental agility through card games, all in a supportive and engaging environment. I was fortunate enough to assist in this project during my high school years, and I can say from personal experience that it’s gratifying to see the happiness it brings to seniors. This project facilitates connections between seniors and younger participants for a mutually enjoyable experience.
+The project I was involved in aimed to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play card games. As a volunteer, I spent a considerable amount of time with the seniors who were eager to participate in the card games. I found it to be a fantastic way to spend my afternoons. Card games allow Seniors to connect, build friendships, and maintain mental agility. The environment was always supportive, and the seniors were engaged in the games. It was heartwarming to see how the seniors would come alive and enjoy the games, bringing a sense of purpose and happiness.
+
+During my high school years, I was fortunate enough to assist in this project, and it was a gratifying experience to see the happiness it brought to seniors. This project enabled connections between seniors and younger participants, which provided a mutually enjoyable experience. 
+
+As a volunteer, I helped to print materials with game rules and strategies and assisted the seniors in playing the card games. I also engaged in conversations with them, listened to their stories, and shared their experiences. Overall, the project was a success, and I am grateful for the opportunity to participate in it.
 
 Objectives:
 Provide seniors with regular opportunities for social interaction and connection.
@@ -36,19 +40,10 @@ It was organize weekly card-playing sessions in local gathering places.
 2. Card Game Tutorials:
 Conduct tutorials or workshops to teach poker card to seniors.
 Provide printed materials with the game rules and strategies for reference.
-5. Themed Card Parties:
-Organize themed card parties with decorations, music, and refreshments to add a festive touch to the card-playing experience.
-Themes can be seasonal, cultural, or based on popular card game motifs.
 6. Memory-Boosting Card Games:
 Include memory-boosting card games that require participants to match pairs or recall sequences.
 Enhance cognitive abilities while maintaining an enjoyable and relaxed atmosphere.
-7. Card Crafting Sessions:
-Combine creativity with card games by organizing crafting sessions to make personalized playing cards.
-Seniors can design and decorate their own set of cards, adding a personal touch to the games.
-Resources Needed:
-Card sets for poker.
-Printed materials with game rules and strategies.
-Volunteers to assist.
+
 
 
 
