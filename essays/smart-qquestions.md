@@ -14,22 +14,25 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/dumbcartoon.png">
 
 
-## Is there such thing as a stupid question?
+## conduct thorough research before seeking any kind of assistance.
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+As a software developer, we might encounter difficulties while navigating the complex software development landscape. Seeking technical assistance is an essential part of our journey, and we can make the process more effective by following specific guidelines outlined in "How to Ask Questions the Smart Way" by Eric Raymond. This essay will explore the importance of asking smart questions, evaluate the chosen questions against established precepts, analyze the responses in terms of smartness, and share insights gained from this experience.
+
+Raymond's first guide is to exhaust all available resources for self-discovery before reaching out for assistance. This involves using search engines like Google, specialized platforms such as forums, and manual users and checking Stack Overflow for similar questions that have already been answered. As a last resort, one can ask in Stack Exchange. Stack Overflow is an excellent resource for programming-related queries, while Super User caters to general-purpose computing questions. This initial step ensures that the questioner has made a genuine effort to understand and resolve the issue independently.
+
+The foundation of effective collaboration lies in respecting the time and expertise of those who might provide assistance. Engaging in hands-on learning and exhaustive research before seeking help reflects a proactive approach and creates a positive learning environment. This respect for the efforts of others fosters a culture of mutual respect, which is essential in the collaborative world of software engineering.
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+a smart question is a strategic and thoughtful inquiry that maximizes the chances of receiving helpful assistance and contributes to a positive and collaborative problem-solving environment. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-
+Evaluation of Chosen Questions: Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
 
 
+# In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array. 
 
 
-
+# Smart Question 
 
 "Why is processing a sorted array faster than processing an unsorted array?” The questioner has provided the code they have tried, their research and their question. This question follows the principles of smart questioning, as it is specific, includes relevant details, and demonstrates the questioner's troubleshooting efforts. It is expected to receive thoughtful and targeted responses.
 
@@ -124,7 +127,7 @@ The asker received twenty-five possible answers, responders were more likely to 
 
 ## Non-Smart Question: 
 
-The way to get ignored is by asking non smart questions. In contrast, the non-smart question states, "The image upload code is not working." They are missing a crucial detail: the error message they received. This shows that the person did not put in any effort to understand or solve the issue by themselves. Answering this type of question can be challenging for responders since they don't have sufficient information to provide helpful assistance. They might ask for more details, which can cause delays and discourage the person from seeking help. Overall, due to the vagueness of the question, the chances of a positive outcome are low. Link to the question: https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working 
+The way to get ignored is by asking non smart questions. In contrast, the non-smart question states, "The image upload code is not working." They are missing a crucial detail: the error message they received. This shows that the person did not put in any effort to understand or solve the issue by themselves.
 
 ```
 image upload code is not working
@@ -175,16 +178,19 @@ public function store()
 
 ```
 
+The asker only recieved one response asking for more details. Answering this type of question can be challenging for responders since they don't have sufficient information to provide helpful assistance. They might ask for more details, which can cause delays and discourage the person from seeking help. Overall, due to the vagueness of the question, the chances of a positive outcome are low. Link to the question: https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working
 
-## Insights Gained: When evaluating smart and non-smart questions, I have learned several valuable insights:
-Effort Precedes Assistance: Questions that demonstrate the questioner's effort and understanding receive more constructive and helpful responses. It is important to put in the work before seeking help.
 
-```
-Choose the Right Forum: To optimize efficiency and effectiveness, it is important to choose the right forum for technical help online. Follow up on solutions provided and contribute to the forum's collective knowledge. 
+# Insights Gained: 
+When evaluating smart and non-smart questions, I have learned several valuable insights:
+
+# Effort Precedes Assistance: 
+Questions that demonstrate the questioner's effort and understanding receive more constructive and helpful responses. It is important to put in the work before seeking help.
+
+# Choose the Right Forum: 
+To optimize efficiency and effectiveness, it is important to choose the right forum for technical help online. Follow up on solutions provided and contribute to the forum's collective knowledge. 
 Effective Communication is Crucial: Clear, courteous, well-formulated questions increase the chances of receiving valuable assistance and foster a positive learning environment.
 Community Participation is Reciprocal: Active participation in forums and communities contributes to a collaborative atmosphere, creating a network of support for software engineers.
-```
 
-## Conclusion
-
+# Conclusion
 Eric Raymond's article "How to Ask Questions the Smart Way" has been an excellent guide for me, a newcomer in software engineering, to avoid misunderstandings with advanced hackers on the web. In the field of software engineering, asking intelligent questions is not just a skill but a guiding principle that shapes collaborative learning and problem-solving. By adopting smart questioning practices, software engineers can effectively seek technical assistance while contributing to a positive and supportive community. The insights I gained from this experience emphasize the reciprocal nature of collaboration and the importance of proactive, respectful engagement in the dynamic world of software development.
