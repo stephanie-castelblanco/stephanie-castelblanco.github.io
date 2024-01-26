@@ -181,8 +181,7 @@ public function store()
 The asker only recieved one response asking for more details. Answering this type of question can be challenging for responders since they don't have sufficient information to provide helpful assistance. They might ask for more details, which can cause delays and discourage the person from seeking help. Overall, due to the vagueness of the question, the chances of a positive outcome are low. Link to the question: https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working
 
 
-#                                                 Insights Gained: 
-When evaluating smart and non-smart questions, I have learned several valuable insights:
+* Insights Gained: When evaluating smart and non-smart questions, I have learned several valuable insights:
 
 ### Effort Precedes Assistance: 
 Questions that demonstrate the questioner's effort and understanding receive more constructive and helpful responses. It is important to put in the work before seeking help.
