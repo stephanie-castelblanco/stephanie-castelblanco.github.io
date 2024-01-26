@@ -29,7 +29,7 @@ a smart question is a strategic and thoughtful inquiry that maximizes the chance
 Evaluation of Chosen Questions: Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
 
 
-& In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array. 
+** In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array. 
 
 
 ## Smart Question: 
