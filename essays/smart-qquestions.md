@@ -17,7 +17,7 @@ labels:
 ## What’s a smart question?
 Asking a smart question involves taking the time to think through the problem at hand and understanding what information is necessary to solve it. It's more than just collecting data, but also requires a thoughtful and strategic approach to problem-solving, promoting trust and cooperation among everyone involved, and contributing to a constructive and successful resolution process.
 
-## Prioritizing Research: A Critical Step Before Seeking Assistance
+### Prioritizing Research: A Critical Step Before Seeking Assistance
 As a software developer, we might encounter difficulties while navigating the complex software development landscape. Seeking technical assistance is an essential part of our journey, and we can make the process more effective by following specific guidelines outlined in "How to Ask Questions the Smart Way" by Eric Raymond. This essay will explore the importance of asking smart questions, evaluate the chosen questions against established precepts, analyze the responses in terms of smartness, and share insights gained from this experience.
 
 Raymond's first guide is to exhaust all available resources for self-discovery before reaching out for assistance. This involves using search engines like Google, specialized platforms such as forums, and manual users and checking Stack Overflow for similar questions that have already been answered. As a last resort, one can ask in Stack Exchange. Stack Overflow is an excellent resource for programming-related queries, while Super User caters to general-purpose computing questions. This initial step ensures that the questioner has made a genuine effort to understand and resolve the issue independently.
@@ -27,7 +27,7 @@ The foundation of effective collaboration lies in respecting the time and expert
 ## Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
 
 <br />
-# *Smart Question:*
+### *Smart Question:*
 * In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array.
 
 "Why is processing a sorted array faster than processing an unsorted array?” The questioner has provided the code they have tried, their research and their question. This question follows the principles of smart questioning, as it is specific, includes relevant details, and demonstrates the questioner's troubleshooting efforts. It is expected to receive thoughtful and targeted responses.
@@ -127,7 +127,7 @@ Here is the link to the smart question [StackOverflow](https://stackoverflow.com
 <br />
 
 <br />
-# *Non-Smart Question:*
+### *Non-Smart Question:*
 The way to get ignored is by asking non smart questions. In contrast, the non-smart question states, "The image upload code is not working." They are missing a crucial detail: the error message they received. This shows that the person did not put in any effort to understand or solve the issue by themselves.
 
 Code provided with the question:
