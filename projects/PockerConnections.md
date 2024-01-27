@@ -13,6 +13,8 @@ labels:
 summary: "Project encourages a feeling of unity by participating in a communal card game."
 ---
 
+
+<br />
 <img width="800px" class="img-fluid" src="../img/pocker.png">  
 
 <br />
@@ -50,10 +52,13 @@ Enhance cognitive abilities while maintaining an enjoyable and relaxed atmospher
 
 In conclusion, being part of a project that brought joy, social interaction, and cognitive stimulation to seniors through card games has been a rewarding experience. I learned that simple activities such as playing card games can have a profound impact on seniors' well-being. The games fostered connections, built friendships, and maintained mental agility among the seniors. My role involved setting up game sessions, providing guidance, and listening to their stories. The project achieved its goals of providing regular social interaction, stimulating cognitive functions, and enhancing emotional well-being. It was gratifying to contribute to a program that brought joy to seniors and facilitated intergenerational connections and skill-building opportunities. I learned the importance of creating inclusive and enriching experiences for seniors to thrive in their communities.
 
+<br />
+
+
 <hr>
 
 <pre>
-**"Card Connections for Seniors" aims to create a welcoming and enjoyable space where seniors can connect, have fun, and keep their minds active through the timeless enjoyment of playing cards.**
+"Card Connections for Seniors" aims to create a welcoming and enjoyable space where seniors can connect, have fun, and keep their minds active through the timeless enjoyment of playing cards.
 
 </pre>
 
