@@ -33,22 +33,9 @@ Provide seniors with regular opportunities for social interaction and connection
 Foster a sense of community through shared card-playing experiences.
 -	Stimulate cognitive functions by engaging seniors in strategic and memory-based card games.
 -	Promote mental agility and concentration through the enjoyment of games.
--	Emotional Well-being:
 
-Enhance emotional well-being by creating a positive and enjoyable atmosphere during card-playing sessions.
-Reduce feelings of loneliness and isolation through social bonding.
-Skill Building:
-Offer opportunities for seniors to learn and practice various card games.
-Provide guidance and support to help seniors develop and improve their card-playing skills.
-Program Components:
-1. Weekly Card Sessions:
-It was organize weekly card-playing sessions in local gathering places.
-2. Card Game Tutorials:
-Conduct tutorials or workshops to teach poker card to seniors.
-Provide printed materials with the game rules and strategies for reference.
-6. Memory-Boosting Card Games:
-Include memory-boosting card games that require participants to match pairs or recall sequences.
-Enhance cognitive abilities while maintaining an enjoyable and relaxed atmosphere.
+**Emotional Well-being:**
+Enhancing emotional well-being can be achieved by creating a positive and enjoyable atmosphere during card-playing sessions. This not only reduces feelings of loneliness and isolation but also fosters social bonding among seniors. Offering opportunities for seniors to learn and practice various card games can help them stay engaged and mentally stimulated. Providing guidance and support to help seniors develop and improve their card-playing skills can boost their confidence and self-esteem.
 
 In conclusion, being part of a project that brought joy, social interaction, and cognitive stimulation to seniors through card games has been a rewarding experience. I learned that simple activities such as playing card games can have a profound impact on seniors' well-being. The games fostered connections, built friendships, and maintained mental agility among the seniors. My role involved setting up game sessions, providing guidance, and listening to their stories. The project achieved its goals of providing regular social interaction, stimulating cognitive functions, and enhancing emotional well-being. It was gratifying to contribute to a program that brought joy to seniors and facilitated intergenerational connections and skill-building opportunities. I learned the importance of creating inclusive and enriching experiences for seniors to thrive in their communities.
 
