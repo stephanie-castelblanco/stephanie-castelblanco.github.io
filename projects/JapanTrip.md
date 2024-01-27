@@ -75,6 +75,9 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 *	Ryoan-ji Temple: Famous for its rock garden, Ryoan-ji is a Zen temple that provides a serene and contemplative atmosphere.
 *	Nijo Castle: A historic castle with beautiful gardens, Nijo Castle is known for its “nightingale floors” that chirp when walked upon, providing security measures.
 
+
+<br />
+
 <br />
 
 <img width="300px" class="rounded float-start pe-4" src="../img/6.jpeg">
