@@ -47,7 +47,6 @@
       "endDate": "Present",
       "summary": "Part-Time Gig",
       "highlights": [
-        "Drive, design and build student-community projects for UH Manoa",
         "Setting up all tables and food service areas with chairs, linens and dishes",
         "Serving food to guests at events."
       ]
@@ -57,7 +56,7 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "Fall 2021 ",
+      "date": "2021 ",
       "awarder": "Leeward CC",
       "summary": "The Dean’s List recognizes students who maintain outstanding academic records at Leeward Community College."
     }
@@ -66,8 +65,9 @@
     {
       "name": "Hike",
       "keywords": [ "nature", "traveler" ,"explore" ]
-    },
+    }
   ],
+  
   "references": [
     {
       "name": "Available upon request"
