@@ -128,7 +128,6 @@ The asker received twenty-five possible answers, responders were more likely to 
 Here is the link to the smart question [StackOverflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902).
 
 <br />
-
 <br />
 ### Non-Smart Question:
 The way to get ignored is by asking non smart questions. In contrast, the non-smart question states, "The image upload code is not working." They are missing a crucial detail: the error message they received. This shows that the person did not put in any effort to understand or solve the issue by themselves.
