@@ -14,7 +14,7 @@ labels:
 ---
 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/codingimage.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/codingimage.png">
 
 I found learning JavaScript on freeCodeCamp to be a stimulating and engaging experience. My previous exposure to this language proved helpful during this module. The modules provided an excellent opportunity for beginners to learn fundamental concepts and practices of JavaScript. However, after completing several exercises on the same day, I felt exhausted and found them quite challenging. Based on my experience, I recommend practicing these exercises for no more than an hour daily. Although I enjoyed the materials, I wished we had more time to practice with a tutor and review the basics. Despite this, I am incredibly grateful for the opportunity to study these modules and plan to delve even deeper into them when the chaos of the start of classes slows down.
 
