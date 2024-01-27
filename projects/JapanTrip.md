@@ -55,10 +55,10 @@ Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that 
 
 
 <br />
+<img width="100px" class="rounded float-start pe-4" src="../img/6.jpeg">
 ## Kyoto
 As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
 
-<img width="350px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
 ### List of places to visit in Kyoto:
@@ -69,9 +69,8 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 *	Ryoan-ji Temple: Famous for its rock garden, Ryoan-ji is a Zen temple that provides a serene and contemplative atmosphere.
 *	Nijo Castle: A historic castle with beautiful gardens, Nijo Castle is known for its “nightingale floors” that chirp when walked upon, providing security measures.
 
+<br />
 Observation: Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
-
-Observation: Exploring districts like Harajuku with its eccentric fashion or encountering themed cafes with unconventional themes allowed a glimpse into Japan’s diverse and dynamic subcultures. While different from the norm, these cultural expressions contribute to the vibrancy and individuality found within Japanese society.
 
 I recommend that future travelers who are planning to visit Japan should:
 *	Research and prepare before the trip, such as learning some basic phrases and words in Japanese, checking the weather and seasonal events, and booking flights and accommodation in advance.
