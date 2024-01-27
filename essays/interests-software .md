@@ -16,7 +16,7 @@ labels:
 
 After completing my Business Associate degree, I became fascinated with technology and decided to pursue computer science. I find software engineering exciting because it involves creating programs that solve complex problems, increase efficiency, and provide users with great experiences. My ultimate goal is to work remotely and collaborate with skilled developers from different parts of the world on exciting projects. Therefore, I am committed to improving my technical skills and knowledge to realize this dream. 
 
-I plan to obtain a Bachelor's degree in Computer Science and Data Science, followed by courses in web development, artificial intelligence, and data science. In addition to studying, I plan to gain hands-on experience in various projects through internships. I will also work to enhance my portfolio to showcase my abilities and ensure it is of the highest quality.
+I haven't decided on a career path yet. Therefore, I plan to pursue a Bachelor's degree in Computer Science and Data Science. After that, I intend to take courses in web development, artificial intelligence, and data science. Besides studying, I will gain practical experience in different projects through internships. I will also work on improving my portfolio to display my skills and ensure it is of the highest quality.
 
 I will begin my job search once I have honed my skills and have a polished portfolio. I am seeking challenging opportunities that will allow me to grow professionally. I am dedicated to becoming an expert in programming languages such as Python, JavaScript, Django, and TensorFlow. Additionally, I aim to master software engineering principles, practices, and tools such as Agile, version control, GitHub, AWS, and Docker.
 
