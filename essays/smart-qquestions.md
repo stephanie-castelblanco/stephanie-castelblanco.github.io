@@ -31,7 +31,8 @@ The foundation of effective collaboration lies in respecting the time and expert
 
 "Why is processing a sorted array faster than processing an unsorted array?” The questioner has provided the code they have tried, their research and their question. This question follows the principles of smart questioning, as it is specific, includes relevant details, and demonstrates the questioner's troubleshooting efforts. It is expected to receive thoughtful and targeted responses.
 
-& Code provided with the question:
+Code provided with the question:
+
 ```
 In this C++ code, sorting the data (before the timed region) makes the primary loop ~6x faster:
 
