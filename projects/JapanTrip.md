@@ -48,9 +48,9 @@ Osaka, known for its friendly populace and delicious street food, unfolded its t
 
 <br />
 ### List of places to visit in Osaka:
-*	Visit Osaka Castle: Explore Osaka Castle, a symbol of the city’s rich history. • Walk through the castle grounds and enjoy panoramic views from the observation deck.
+*	Visit Osaka Castle: Explore Osaka Castle, a symbol of the city’s rich history. Walk through the castle grounds and enjoy panoramic views from the observation deck.
 *	Experience Dotonbori: Wander through Dotonbori, a lively district known for its neon lights, entertainment, and iconic street food. Take a photo with the Glico Running Man sign.
-*	Try Street Food in Kuromon Ichiba Market: Indulge in Osaka’s famous street food at Kuromon Ichiba Market. • Try takoyaki (octopus balls), okonomiyaki (savory pancakes), and other local delights.
+*	Try Street Food in Kuromon Ichiba Market: Indulge in Osaka’s famous street food at Kuromon Ichiba Market. Try takoyaki (octopus balls), okonomiyaki (savory pancakes), and other local delights.
 *	Explore Umeda Sky Building: Visit the Umeda Sky Building for panoramic views of Osaka from its Floating Garden Observatory.
 *	Visit Sumiyoshi Taisha Shrine: Experience the tranquil atmosphere of Sumiyoshi Taisha, one of Japan’s oldest Shinto shrines.
 *	Relax in Osaka Castle Park: Take a leisurely stroll in Osaka Castle Park, especially beautiful during cherry blossom season.
@@ -89,4 +89,4 @@ I recommend that future travelers who are planning to visit Japan should:
 
 *	Enjoy and appreciate the trip, such as taking photos and videos, keeping a journal or a blog, and sharing the stories and memories with others.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/4.jpg">
+<img  class="rounded float-start pe-4" src="../img/4.jpg">
