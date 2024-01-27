@@ -26,8 +26,8 @@ The foundation of effective collaboration lies in respecting the time and expert
 
 ## Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
 
-
-### * Smart Question: 
+[\]
+### Smart Question: 
 * In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array.
 
 "Why is processing a sorted array faster than processing an unsorted array?” The questioner has provided the code they have tried, their research and their question. This question follows the principles of smart questioning, as it is specific, includes relevant details, and demonstrates the questioner's troubleshooting efforts. It is expected to receive thoughtful and targeted responses.
