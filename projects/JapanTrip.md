@@ -57,7 +57,9 @@ Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that 
 <br />
 ## Kyoto
 As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
-<img class="img-fluid" src="../img/6.jpeg"> 
+
+<img width="350px" class="rounded float-start pe-4" src="../img/6.jpeg">
+
 <br />
 ### List of places to visit in Kyoto:
 *	Fushimi Inari Taisha: Famous for its thousands of vermillion torii gates, this Shinto shrine is dedicated to Inari, the god of rice and prosperity.
