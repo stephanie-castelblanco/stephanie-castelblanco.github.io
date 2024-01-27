@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/dumbcartoon.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/dumbcartoon.png">
 
 
 ## What’s a smart question?
