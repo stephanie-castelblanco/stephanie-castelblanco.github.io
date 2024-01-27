@@ -74,10 +74,14 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 *	Nijo Castle: A historic castle with beautiful gardens, Nijo Castle is known for its “nightingale floors” that chirp when walked upon, providing security measures.
 
 <br />
+
 <img width="200px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
-Observation: Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
+
+<br />
+
+*** Observation:*** Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
 
 I recommend that future travelers who are planning to visit Japan should:
 *	Research and prepare before the trip, such as learning some basic phrases and words in Japanese, checking the weather and seasonal events, and booking flights and accommodation in advance.
