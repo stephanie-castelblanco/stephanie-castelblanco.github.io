@@ -20,13 +20,9 @@ Purpose and Objectives: This project was a journey of exploration and discovery 
 
 
 <br />
-  
-<img class="img-fluid" src="../img/1.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/1.jpg">
+<img width="150px" class="rounded float-start pe-4" src="../img/1.jpg">
 ## Tokyo
 The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
-
-<img width="200px" class="rounded float-start pe-4" src="../img/1.jpg">
 
 <br />
 ### List of places to visit in Tokyo:
