@@ -15,14 +15,18 @@ summary: "Project encourages a feeling of unity by participating in a communal c
 
 <img width="800px" class="img-fluid" src="../img/pocker.png">  
 
-Project Overview:
+<br />
+
+**Project Overview:**
 The project I was involved in aimed to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play card games. As a volunteer, I spent a considerable amount of time with the seniors who were eager to participate in the card games. I found it to be a fantastic way to spend my afternoons. Card games allow Seniors to connect, build friendships, and maintain mental agility. The environment was always supportive, and the seniors were engaged in the games. It was heartwarming to see how the seniors would come alive and enjoy the games, bringing a sense of purpose and happiness.
 
 During my high school years, I was fortunate enough to assist in this project, and it was a gratifying experience to see the happiness it brought to seniors. This project enabled connections between seniors and younger participants, which provided a mutually enjoyable experience. 
 
 As a volunteer, I helped to print materials with game rules and strategies and assisted the seniors in playing the card games. I also engaged in conversations with them, listened to their stories, and shared their experiences. Overall, the project was a success, and I am grateful for the opportunity to participate in it.
 
-Objectives:
+<br />
+
+**Objectives:**
 Provide seniors with regular opportunities for social interaction and connection.
 Foster a sense of community through shared card-playing experiences.
 -	Stimulate cognitive functions by engaging seniors in strategic and memory-based card games.
@@ -49,7 +53,7 @@ In conclusion, being part of a project that brought joy, social interaction, and
 <hr>
 
 <pre>
-"Card Connections for Seniors" aims to create a welcoming and enjoyable space where seniors can connect, have fun, and keep their minds active through the timeless enjoyment of playing cards.
+**"Card Connections for Seniors" aims to create a welcoming and enjoyable space where seniors can connect, have fun, and keep their minds active through the timeless enjoyment of playing cards.**
 
 </pre>
 
