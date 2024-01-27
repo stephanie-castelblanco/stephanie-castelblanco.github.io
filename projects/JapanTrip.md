@@ -86,11 +86,10 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 
 <br />
 
-**Observation:** Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
+**Observation:** Japanese society places a high value on harmony and order. The queue system, silence on public transportation, and adherence to unwritten rules all showcase a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms is an important part of experiencing daily life in Japan.
 
-I recommend that future travelers who are planning to visit Japan should:
-*	Research and prepare before the trip, such as learning some basic phrases and words in Japanese, checking the weather and seasonal events, and booking flights and accommodation in advance.
+If you're planning to visit Japan in the future, I recommend doing some research and preparation beforehand. This could include learning some basic phrases and words in Japanese, checking the weather and seasonal events, and booking flights and accommodation in advance.
 
-*	Be flexible and open-minded during the trip, such as trying new foods and activities, respecting the local rules and norms, and embracing the unexpected and the unfamiliar.
+During your trip, it's important to be flexible and open-minded. Try new foods and activities, respect the local rules and norms, and embrace the unexpected and unfamiliar.
 
-*	Enjoy and appreciate the trip, such as taking photos and videos, keeping a journal or a blog, and sharing the stories and memories with others.
+Finally, make sure to enjoy and appreciate your trip to Japan. Take photos and videos, keep a journal or blog, and share your stories and memories with others.
