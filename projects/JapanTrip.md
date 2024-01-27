@@ -12,21 +12,24 @@ labels:
 summary: "Tips and places to visit when traveling to Japan."
 ---
 
-<img class="img-fluid" src="../img/japan.png">  
+<img width="300px" class="img-fluid" src="../img/japan.png">  
 
 Purpose and Objectives: This project was a journey of exploration and discovery of Japan’s attractions, one of the world's most popular tourist destinations. The objectives were to visit three major cities in Japan, Tokyo, Osaka, and Kyoto, and to learn about their unique features and differences.
 
+<img width="150px" class="rounded float-start pe-4" src="../img/3.jpg">
+
+
+<br />
 * Being in Japan was a captivating journey. The primary aim was to delve into the unique features and distinctions of each city, offering a comprehensive understanding of Japan’s diverse cultural landscape. *
 
 
 <br />
 
-<img width="150px" class="rounded float-start pe-4" src="../img/3.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
 
 ## Tokyo
 The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
 <br />
 ### List of places to visit in Tokyo:
 *	Visit Shibuya Crossing: Experience the iconic Shibuya Crossing, one of the busiest pedestrian crossings in the world.
