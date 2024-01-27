@@ -20,19 +20,8 @@ Purpose and Objectives: This project was a journey of exploration and discovery 
 
 <br />
 ## Tokyo
- Venturing through iconic locations such as Shibuya Crossing, Shinjuku, Asakusa, and Tokyo Disneyland, I experienced the blend of tradition and modernity. Tokyo’s dynamic atmosphere and cultural richness were evident in landmarks like Tokyo Sky tree and Ueno Park. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
-Tokyo: The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises.
+The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
 
-<br />
-## Osaka
-Osaka, known for its friendly populace and delicious street food, unfolded its treasures. The city showcased its energetic spirit from the historical Osaka Castle to the vibrant Dotonbori district and the culinary delights of Kuromon Market. Umeda Sky Building and Sumiyoshi Taisha Shrine provided a mix of modernity and tradition, while Universal Studios Japan added a touch of entertainment.
-
-<br />
-## Kyoto
-As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
-Observing Japanese society’s commitment to harmony and order, adapting to social norms, and encountering cultural quirks contributed to a profound understanding of daily life. Recognizing the vibrancy of subcultures in districts like Harajuku highlighted Japan’s dynamic societal expressions.
-List of places to visit: This project was a success in achieving its objectives and fulfilling its purpose. It provided an enriching and diverse experience of Japan and a deeper understanding of its culture and history. This project also revealed some of the similarities and differences among the three cities.
-Tokyo: The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises.
 
 <br />
 ### List of places to visit in Tokyo:
@@ -50,6 +39,10 @@ Tokyo: The capital and the largest city of Japan, Tokyo is a metropolis that com
 Osaka: The second largest city and the economic center of Japan, Osaka is known for its friendly and outgoing people, its delicious street food, and its vibrant and historical landmarks. It is a city that is full of energy and fun, as well as history and heritage.
 
 <br />
+## Osaka
+Osaka, known for its friendly populace and delicious street food, unfolded its treasures. The city showcased its energetic spirit from the historical Osaka Castle to the vibrant Dotonbori district and the culinary delights of Kuromon Market. Umeda Sky Building and Sumiyoshi Taisha Shrine provided a mix of modernity and tradition, while Universal Studios Japan added a touch of entertainment.
+
+<br />
 ### List of places to visit in Osaka:
 *	Visit Osaka Castle: Explore Osaka Castle, a symbol of the city’s rich history. • Walk through the castle grounds and enjoy panoramic views from the observation deck.
 *	Experience Dotonbori: Wander through Dotonbori, a lively district known for its neon lights, entertainment, and iconic street food. Take a photo with the Glico Running Man sign.
@@ -60,6 +53,11 @@ Osaka: The second largest city and the economic center of Japan, Osaka is known 
 *	Experience Universal Studios Japan: Spend a day at Universal Studios Japan, enjoying theme park rides and attractions.
 Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that preserves and showcases the beauty and elegance of Japanese culture, art, and architecture. It invites visitors to slow down and appreciate the finer things in life and to reflect and meditate.
 
+
+<br />
+## Kyoto
+As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
+<img class="img-fluid" src="../img/6.jpeg"> 
 <br />
 ### List of places to visit in Kyoto:
 *	Fushimi Inari Taisha: Famous for its thousands of vermillion torii gates, this Shinto shrine is dedicated to Inari, the god of rice and prosperity.
