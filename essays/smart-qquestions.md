@@ -122,7 +122,7 @@ The code is summing up some independent terms, so the order should not matter.
 
 The asker received twenty-five possible answers, responders were more likely to engage with the question due to its clarity and the evidence of the questioner's research efforts. As a result, the ensuing discussion is anticipated to be productive and conducive to problem-solving. 
 
-Here is the link to the question [StackOverflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902).
+Here is the link to the smart question [StackOverflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902).
 
 
 
@@ -183,7 +183,7 @@ public function store()
 
 The asker only recieved one response asking for more details. Answering this type of question can be challenging for responders since they don't have sufficient information to provide helpful assistance. They might ask for more details, which can cause delays and discourage the person from seeking help. Overall, due to the vagueness of the question, the chances of a positive outcome are low. Link to the question: 
 
-Here is the link to the question [StackOverflow](https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working).
+Here is the link to  the non-smart question [Stack Overflow](https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working).
 
 
 ### Insights Gained: When evaluating smart and non-smart questions, I have learned several valuable insights:
