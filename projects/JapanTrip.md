@@ -12,6 +12,8 @@ labels:
 summary: "Tips and places to visit when traveling to Japan."
 ---
 
+
+<br />
 <img width="900px" class="img-fluid" src="../img/japan.png">  
 
 <br />
