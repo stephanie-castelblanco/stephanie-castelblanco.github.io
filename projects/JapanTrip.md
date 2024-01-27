@@ -76,7 +76,6 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 *	Nijo Castle: A historic castle with beautiful gardens, Nijo Castle is known for its “nightingale floors” that chirp when walked upon, providing security measures.
 
 
-<br />
 
 <br />
 
