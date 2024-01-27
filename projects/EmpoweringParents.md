@@ -12,6 +12,9 @@ labels:
 summary: "Project provides computer skills to parents, enhancing digital skills, and online safety practices for parents."
 ---
 
+
+<br />
+
 <img class="img-fluid" src="../img/learn.png">
 
 Empowering Parents: to lern to use computers 
