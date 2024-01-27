@@ -18,11 +18,14 @@ Purpose and Objectives: This project was a journey of exploration and discovery 
 
 * Being in Japan was a captivating journey. The primary aim was to delve into the unique features and distinctions of each city, offering a comprehensive understanding of Japan’s diverse cultural landscape. *
 
+
 <br />
-<img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
+
+<img width="200px" class="rounded float-start pe-4" src="../img/1.jpg">
 ## Tokyo
 The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/1.jpg">
 
 <br />
 ### List of places to visit in Tokyo:
@@ -62,6 +65,8 @@ Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that 
 As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
 
 <img width="200px" class="rounded float-start pe-4" src="../img/4.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/2.jpg">
+
 <br />
 ### List of places to visit in Kyoto:
 *	Fushimi Inari Taisha: Famous for its thousands of vermillion torii gates, this Shinto shrine is dedicated to Inari, the god of rice and prosperity.
