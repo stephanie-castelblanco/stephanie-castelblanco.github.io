@@ -12,7 +12,7 @@ labels:
 summary: "Tips and places to visit when traveling to Japan."
 ---
 
-<img width="700px" class="img-fluid" src="../img/japan.png">  
+<img width="800px" class="img-fluid" src="../img/japan.png">  
 
 Purpose and Objectives: This project was a journey of exploration and discovery of Japan’s attractions, one of the world's most popular tourist destinations. The objectives were to visit three major cities in Japan, Tokyo, Osaka, and Kyoto, and to learn about their unique features and differences.
 
@@ -23,7 +23,7 @@ Purpose and Objectives: This project was a journey of exploration and discovery 
 
 <br />
 <img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
-<br />
+
 ## Tokyo
 The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
 
@@ -43,7 +43,7 @@ The capital and the largest city of Japan, Tokyo is a metropolis that combines t
 Osaka: The second largest city and the economic center of Japan, Osaka is known for its friendly and outgoing people, its delicious street food, and its vibrant and historical landmarks. It is a city that is full of energy and fun, as well as history and heritage.
 
 <br />
-<img width="150px" class="rounded float-start pe-4" src="../img/3.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/3.jpg">
 ## Osaka
 Osaka, known for its friendly populace and delicious street food, unfolded its treasures. The city showcased its energetic spirit from the historical Osaka Castle to the vibrant Dotonbori district and the culinary delights of Kuromon Market. Umeda Sky Building and Sumiyoshi Taisha Shrine provided a mix of modernity and tradition, while Universal Studios Japan added a touch of entertainment.
 
@@ -75,13 +75,13 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 
 <br />
 
-<img width="200px" class="rounded float-start pe-4" src="../img/6.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
 
 <br />
 
-*** Observation:*** Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
+** Observation:** Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
 
 I recommend that future travelers who are planning to visit Japan should:
 *	Research and prepare before the trip, such as learning some basic phrases and words in Japanese, checking the weather and seasonal events, and booking flights and accommodation in advance.
