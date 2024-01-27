@@ -25,7 +25,10 @@ Raymond's first guide is to exhaust all available resources for self-discovery b
 The foundation of effective collaboration lies in respecting the time and expertise of those who might provide assistance. Engaging in hands-on learning and exhaustive research before seeking help reflects a proactive approach and creates a positive learning environment. This respect for the efforts of others fosters a culture of mutual respect, which is essential in the collaborative world of software engineering.
 
 ### Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
-
+\
+(hi)
+$\\
+[ko]
 
 ## Smart Question: 
 * In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array.
