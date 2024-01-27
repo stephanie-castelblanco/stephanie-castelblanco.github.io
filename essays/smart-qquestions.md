@@ -17,6 +17,7 @@ labels:
 ## What’s a smart question?
 Asking a smart question involves taking the time to think through the problem at hand and understanding what information is necessary to solve it. It's more than just collecting data, but also requires a thoughtful and strategic approach to problem-solving, promoting trust and cooperation among everyone involved, and contributing to a constructive and successful resolution process.
 
+<br />
 ### Prioritizing Research: A Critical Step Before Seeking Assistance
 As a software developer, we might encounter difficulties while navigating the complex software development landscape. Seeking technical assistance is an essential part of our journey, and we can make the process more effective by following specific guidelines outlined in "How to Ask Questions the Smart Way" by Eric Raymond. This essay will explore the importance of asking smart questions, evaluate the chosen questions against established precepts, analyze the responses in terms of smartness, and share insights gained from this experience.
 
@@ -25,7 +26,6 @@ Raymond's first guide is to exhaust all available resources for self-discovery b
 The foundation of effective collaboration lies in respecting the time and expertise of those who might provide assistance. Engaging in hands-on learning and exhaustive research before seeking help reflects a proactive approach and creates a positive learning environment. This respect for the efforts of others fosters a culture of mutual respect, which is essential in the collaborative world of software engineering.
 
 <br />
-
 <br />
 ## _Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:_
 
