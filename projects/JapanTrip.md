@@ -12,11 +12,9 @@ labels:
 summary: "Tips and places to visit when traveling to Japan."
 ---
 
-<img width="300px" class="img-fluid" src="../img/japan.png">  
+<img width="700px" class="img-fluid" src="../img/japan.png">  
 
 Purpose and Objectives: This project was a journey of exploration and discovery of Japan’s attractions, one of the world's most popular tourist destinations. The objectives were to visit three major cities in Japan, Tokyo, Osaka, and Kyoto, and to learn about their unique features and differences.
-
-<img width="150px" class="rounded float-start pe-4" src="../img/3.jpg">
 
 
 <br />
@@ -46,7 +44,7 @@ The capital and the largest city of Japan, Tokyo is a metropolis that combines t
 Osaka: The second largest city and the economic center of Japan, Osaka is known for its friendly and outgoing people, its delicious street food, and its vibrant and historical landmarks. It is a city that is full of energy and fun, as well as history and heritage.
 
 <br />
-
+<img width="150px" class="rounded float-start pe-4" src="../img/3.jpg">
 ## Osaka
 Osaka, known for its friendly populace and delicious street food, unfolded its treasures. The city showcased its energetic spirit from the historical Osaka Castle to the vibrant Dotonbori district and the culinary delights of Kuromon Market. Umeda Sky Building and Sumiyoshi Taisha Shrine provided a mix of modernity and tradition, while Universal Studios Japan added a touch of entertainment.
 
