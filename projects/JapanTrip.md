@@ -24,6 +24,7 @@ Purpose and Objectives: This project was a journey of exploration and discovery 
 ## Tokyo
 The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
 <br />
 ### List of places to visit in Tokyo:
 *	Visit Shibuya Crossing: Experience the iconic Shibuya Crossing, one of the busiest pedestrian crossings in the world.
@@ -40,7 +41,7 @@ The capital and the largest city of Japan, Tokyo is a metropolis that combines t
 Osaka: The second largest city and the economic center of Japan, Osaka is known for its friendly and outgoing people, its delicious street food, and its vibrant and historical landmarks. It is a city that is full of energy and fun, as well as history and heritage.
 
 <br />
-<img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
+
 ## Osaka
 Osaka, known for its friendly populace and delicious street food, unfolded its treasures. The city showcased its energetic spirit from the historical Osaka Castle to the vibrant Dotonbori district and the culinary delights of Kuromon Market. Umeda Sky Building and Sumiyoshi Taisha Shrine provided a mix of modernity and tradition, while Universal Studios Japan added a touch of entertainment.
 
