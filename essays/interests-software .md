@@ -14,8 +14,11 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+After completing my Business Associate degree, I became fascinated with technology and decided to pursue computer science. I find software engineering exciting because it involves creating programs that solve complex problems, increase efficiency, and provide users with great experiences. My ultimate goal is to work remotely and collaborate with skilled developers from different parts of the world on exciting projects. Therefore, I am committed to improving my technical skills and knowledge to realize this dream. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+I plan to obtain a Bachelor's degree in Computer Science and Data Science, followed by courses in web development, artificial intelligence, and data science. In addition to studying, I plan to gain hands-on experience in various projects through internships. I will also work to enhance my portfolio to showcase my abilities and ensure it is of the highest quality.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I will begin my job search once I have honed my skills and have a polished portfolio. I am seeking challenging opportunities that will allow me to grow professionally. I am dedicated to becoming an expert in programming languages such as Python, JavaScript, Django, and TensorFlow. Additionally, I aim to master software engineering principles, practices, and tools such as Agile, version control, GitHub, AWS, and Docker.
+
+Moreover, I am passionate about ensuring my work is ethical and socially responsible. I believe in creating software that is inclusive, fair, and has a positive impact on society and the environment. I am excited to embrace the ever-evolving world of software engineering, overcome challenges, and drive innovation forward. 
+
