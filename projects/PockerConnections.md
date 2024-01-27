@@ -13,7 +13,7 @@ labels:
 summary: "Project encourages a feeling of unity by participating in a communal card game."
 ---
 
-<img class="img-fluid" src="../img/pocker.png">  
+<img width="800px" class="img-fluid" src="../img/pocker.png">  
 
 Project Overview:
 The project I was involved in aimed to bring joy, social interaction, and cognitive stimulation to seniors by encouraging them to play card games. As a volunteer, I spent a considerable amount of time with the seniors who were eager to participate in the card games. I found it to be a fantastic way to spend my afternoons. Card games allow Seniors to connect, build friendships, and maintain mental agility. The environment was always supportive, and the seniors were engaged in the games. It was heartwarming to see how the seniors would come alive and enjoy the games, bringing a sense of purpose and happiness.
@@ -44,8 +44,7 @@ Provide printed materials with the game rules and strategies for reference.
 Include memory-boosting card games that require participants to match pairs or recall sequences.
 Enhance cognitive abilities while maintaining an enjoyable and relaxed atmosphere.
 
-
-
+In conclusion, being part of a project that brought joy, social interaction, and cognitive stimulation to seniors through card games has been a rewarding experience. I learned that simple activities such as playing card games can have a profound impact on seniors' well-being. The games fostered connections, built friendships, and maintained mental agility among the seniors. My role involved setting up game sessions, providing guidance, and listening to their stories. The project achieved its goals of providing regular social interaction, stimulating cognitive functions, and enhancing emotional well-being. It was gratifying to contribute to a program that brought joy to seniors and facilitated intergenerational connections and skill-building opportunities. I learned the importance of creating inclusive and enriching experiences for seniors to thrive in their communities.
 
 <hr>
 
