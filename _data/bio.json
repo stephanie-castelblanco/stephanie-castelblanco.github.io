@@ -28,13 +28,14 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, HI", 
       "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2024-09-01",
       "endDate": "Present",
       "courses": [ "Software Engineering I, CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I"
       ]
+      "institution2": "Leeward cc , Mililai, HI",
     }
   ],
 
