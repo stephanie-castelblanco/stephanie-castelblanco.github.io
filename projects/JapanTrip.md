@@ -20,7 +20,8 @@ Purpose and Objectives: This project was a journey of exploration and discovery 
 
 
 <br />
-
+  
+<img class="img-fluid" src="../img/1.jpg">
 <img width="200px" class="rounded float-start pe-4" src="../img/1.jpg">
 ## Tokyo
 The capital and the largest city of Japan, Tokyo is a metropolis that combines the old and the new, the traditional and the modern, the east and the west. It offers endless possibilities and opportunities for visitors, as well as challenges and surprises. Sampling diverse Japanese cuisine and visiting themed cafes added culinary delights to the journey.
@@ -64,7 +65,6 @@ Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that 
 ## Kyoto
 As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/4.jpg">
 <img width="200px" class="rounded float-start pe-4" src="../img/2.jpg">
 
 <br />
@@ -86,3 +86,4 @@ I recommend that future travelers who are planning to visit Japan should:
 
 *	Enjoy and appreciate the trip, such as taking photos and videos, keeping a journal or a blog, and sharing the stories and memories with others.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/4.jpg">
