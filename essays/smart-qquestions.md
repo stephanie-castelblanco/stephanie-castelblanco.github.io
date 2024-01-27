@@ -26,8 +26,6 @@ The foundation of effective collaboration lies in respecting the time and expert
 
 ## Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
 
-(\) 
-
 ### Smart Question: 
 * In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array.
 
@@ -121,9 +119,11 @@ The code is summing up some independent terms, so the order should not matter.
 
 ```
 
-The asker received twenty-five possible answers, responders were more likely to engage with the question due to its clarity and the evidence of the questioner's research efforts. As a result, the ensuing discussion is anticipated to be productive and conducive to problem-solving. Link to the question: https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902
+The asker received twenty-five possible answers, responders were more likely to engage with the question due to its clarity and the evidence of the questioner's research efforts. As a result, the ensuing discussion is anticipated to be productive and conducive to problem-solving. 
 
-\n
+Here is the link to the question [StackOverflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array/11227902#11227902).
+
+
 
 ### Non-Smart Question:
 
