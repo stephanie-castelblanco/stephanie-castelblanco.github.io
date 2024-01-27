@@ -62,14 +62,13 @@ Osaka, known for its friendly populace and delicious street food, unfolded its t
 Kyoto: The former capital and the cultural heart of Japan, Kyoto is a city that preserves and showcases the beauty and elegance of Japanese culture, art, and architecture. It invites visitors to slow down and appreciate the finer things in life and to reflect and meditate.
 
 <br />
-<img width="200px" class="rounded float-start pe-4" src="../img/6.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/2.jpg">
 
 ## Kyoto
 As Japan's former capital and cultural heart, Kyoto is enchanted with its elegance. Visits to Kyoto’s timeless landmarks, including Fushimi Inari Shrine and Kinkaku-ji, revealed the city’s commitment to preserving Japanese culture. The tranquility of Kyoto’s temples, gardens, and the cherry blossom-lined Osaka Castle Park offered moments of reflection and appreciation.
 
-<br />
-<img width="200px" class="rounded float-start pe-4" src="../img/2.jpg">
 
+<br />
 
 ### List of places to visit in Kyoto:
 *	Fushimi Inari Taisha: Famous for its thousands of vermillion torii gates, this Shinto shrine is dedicated to Inari, the god of rice and prosperity.
@@ -78,6 +77,7 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 *	Arashiyama Bamboo Grove: A mesmerizing bamboo forest in the Arashiyama district, along with the iconic Togetsukyo Bridge and the Iwatayama Monkey Park.
 *	Ryoan-ji Temple: Famous for its rock garden, Ryoan-ji is a Zen temple that provides a serene and contemplative atmosphere.
 *	Nijo Castle: A historic castle with beautiful gardens, Nijo Castle is known for its “nightingale floors” that chirp when walked upon, providing security measures.
+<img width="200px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
 Observation: Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
