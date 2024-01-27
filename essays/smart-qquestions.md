@@ -11,6 +11,8 @@ labels:
   - StackOverflow
 ---
 
+
+<br />
 <img width="350px" class="rounded float-start pe-4" src="../img/dumbcartoon.png">
 
 
