@@ -12,14 +12,13 @@ labels:
 summary: "Tips and places to visit when traveling to Japan."
 ---
 
-<img width="800px" class="img-fluid" src="../img/japan.png">  
+<img width="900px" class="img-fluid" src="../img/japan.png">  
 
 Purpose and Objectives: This project was a journey of exploration and discovery of Japan’s attractions, one of the world's most popular tourist destinations. The objectives were to visit three major cities in Japan, Tokyo, Osaka, and Kyoto, and to learn about their unique features and differences.
 
 
 <br />
-* Being in Japan was a captivating journey. The primary aim was to delve into the unique features and distinctions of each city, offering a comprehensive understanding of Japan’s diverse cultural landscape. *
-
+_Being in Japan was a captivating journey. The primary aim was to delve into the unique features and distinctions of each city, offering a comprehensive understanding of Japan’s diverse cultural landscape._
 
 <br />
 <img width="200px" class="rounded float-start pe-4" src="../img/5.jpg">
