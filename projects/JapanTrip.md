@@ -74,13 +74,13 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 
 <br />
 
-<img width="250px" class="rounded float-start pe-4" src="../img/6.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
 
 <br />
 
-** Observation:** Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
+**Observation:** Japanese society values harmony and order. Observing the queue system, silence on public transportation, and adherence to unwritten rules showcased a collective commitment to maintaining a peaceful environment. Recognizing and adapting to these social norms became an integral part of experiencing daily life in Japan.
 
 I recommend that future travelers who are planning to visit Japan should:
 *	Research and prepare before the trip, such as learning some basic phrases and words in Japanese, checking the weather and seasonal events, and booking flights and accommodation in advance.
