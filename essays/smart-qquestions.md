@@ -26,8 +26,8 @@ The foundation of effective collaboration lies in respecting the time and expert
 
 ## Let's examine two scenarios, one where the question aligns with smart questioning practices and another where it does not:
 
-
-*Smart Question:*
+(” “) 
+# *Smart Question:*
 * In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out why processing a sorted array is faster than processing an unsorted array.
 
 "Why is processing a sorted array faster than processing an unsorted array?” The questioner has provided the code they have tried, their research and their question. This question follows the principles of smart questioning, as it is specific, includes relevant details, and demonstrates the questioner's troubleshooting efforts. It is expected to receive thoughtful and targeted responses.
@@ -126,7 +126,7 @@ Here is the link to the smart question [StackOverflow](https://stackoverflow.com
 
 
 
-*Non-Smart Question:*
+# *Non-Smart Question:*
 
 The way to get ignored is by asking non smart questions. In contrast, the non-smart question states, "The image upload code is not working." They are missing a crucial detail: the error message they received. This shows that the person did not put in any effort to understand or solve the issue by themselves.
 
@@ -183,7 +183,7 @@ public function store()
 
 The asker only recieved one response asking for more details. Answering this type of question can be challenging for responders since they don't have sufficient information to provide helpful assistance. They might ask for more details, which can cause delays and discourage the person from seeking help. Overall, due to the vagueness of the question, the chances of a positive outcome are low. Link to the question: 
 
-Here is the link to  the non-smart question [Stack Overflow](https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working).
+Here is the link to  the non-smart question [StackOverflow](https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working).
 
 
 ### Insights Gained: When evaluating smart and non-smart questions, I have learned several valuable insights:
