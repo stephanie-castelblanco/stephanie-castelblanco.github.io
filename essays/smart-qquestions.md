@@ -191,7 +191,7 @@ Here is the link to  the non-smart question [StackOverflow](https://stackoverflo
 
 
 <br />
-## Insights Gained: When evaluating smart and non-smart questions
+## Insights Gained:
 
 * Effort Precedes Assistance: 
 Questions that demonstrate the questioner's effort and understanding receive more constructive and helpful responses. It is important to put in the work before seeking help.
