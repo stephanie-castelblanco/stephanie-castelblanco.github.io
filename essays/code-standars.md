@@ -14,8 +14,9 @@ labels:
 ---
 
 <br />
-<img width="250px" class="rounded float-start pe-4" src="../img/codingsta.png"> 
+<img width="350px" class="rounded float-start pe-4" src="../img/codingsta.png"> 
 
+<br />
 <br />
 Coding standards are a critical aspect of software engineering. They offer multiple benefits to developers, development teams, and software projects, making them indispensable to ensure the success and longevity of software systems. By enforcing consistency, readability, maintainability, collaboration, and high quality, coding standards enable software engineers to build better and more reliable software products.
 
