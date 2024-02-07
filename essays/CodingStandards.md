@@ -5,7 +5,7 @@ type: essay
 title: "Elevating Code Quality: The Significance of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-06
-published: true
+published: false
 labels:
   - Coding standards 
   - Learning
