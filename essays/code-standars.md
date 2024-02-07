@@ -15,7 +15,7 @@ labels:
 
 <br />
 <img width="250px" class="rounded float-start pe-4" src="../img/codingsta.png"> 
-
+<br />
 Coding standards are a critical aspect of software engineering. They offer multiple benefits to developers, development teams, and software projects, making them indispensable to ensure the success and longevity of software systems. By enforcing consistency, readability, maintainability, collaboration, and high quality, coding standards enable software engineers to build better and more reliable software products.
 
 If you're looking to improve the quality of your code, implementing coding standards is the way to go. Lint or static code analysis tools are software programs that can help you enforce coding standards. These tools can automatically identify potential issues in your code and provide feedback to help you improve its quality, readability, and maintainability.
