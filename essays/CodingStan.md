@@ -1,6 +1,6 @@
 ---
 layout: essay
-image: img/codingSta.png
+image: 
 type: essay
 title: "Elevating Code Quality: The Significance of Coding Standards"
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 ---
 
 
-<img width="250px" class="rounded float-start pe-4" src="../img/codingSta.png">
+
 
 # Elevating Code Quality: The Significance of Coding Standards
 
