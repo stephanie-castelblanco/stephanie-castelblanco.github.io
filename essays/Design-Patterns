@@ -2,7 +2,7 @@
 layout: essay
 image: img/codingimage.png
 type: essay
-title: "My Journey with Design Patterns"
+title: "Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-22
 published: true
