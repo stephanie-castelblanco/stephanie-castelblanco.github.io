@@ -20,6 +20,7 @@ labels:
 <br />
 Coding standards are a critical aspect of software engineering. They offer multiple benefits to developers, development teams, and software projects, making them indispensable to ensure the success and longevity of software systems. By enforcing consistency, readability, maintainability, collaboration, and high quality, coding standards enable software engineers to build better and more reliable software products.
 
+
 If you're looking to improve the quality of your code, implementing coding standards is the way to go. Lint or static code analysis tools are software programs that can help you enforce coding standards. These tools can automatically identify potential issues in your code and provide feedback to help you improve its quality, readability, and maintainability.
 ESLint is the go-to linting tool in JavaScript development to help you enforce coding standards quickly and easily. With its customizable rules and plugins, you can flag errors and choose the line where they occur, making it easy to detect and remove errors and improve your code quality. Despite minor inconveniences such as having to invoke ESLint each time manually, this tool is an invaluable asset in the development process, providing real-time feedback and helping you ensure adherence to coding standards.
 
