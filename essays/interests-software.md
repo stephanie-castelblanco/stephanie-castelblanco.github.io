@@ -13,7 +13,7 @@ labels:
 ---
 
 <br />
-<img height:"120px", width:"230px" class="rounded float-start pe-4" src="../img/900.png">
+<img height:"10px", width:"130px" class="rounded float-start pe-4" src="../img/900.png">
 
 After completing my Business Associate degree, I became fascinated with technology and decided to pursue a degree in computer science. I find software engineering exciting because it involves creating programs that solve complex problems, increase efficiency, and provide users with great experiences. My ultimate goal is to work remotely and collaborate with skilled developers from different parts of the world on exciting projects. Therefore, I am committed to improving my technical skills and knowledge to realize this dream. 
 
