@@ -1,19 +1,14 @@
 ---
 layout: essay
-image: img/codingimage.png
 type: essay
-title: "Design Patterns"
+title: "Igniting the fire"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-22
-published: true
+date: 2015-08-26
+published: false
 labels:
   - Software Engineering
   - Learning
-  - Reflect
-  - Design Patters
-  - Javascript
 ---
-
 
 <img width="200px" class="rounded float-start pe-4" src="../img/codingimage.png">
 
