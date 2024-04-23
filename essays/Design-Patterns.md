@@ -28,15 +28,18 @@ const [error, setError] = useState('');
 
 ### Factory Pattern
 We use the SimpleSchema to define validation rules for our forms, which is a clear example of the Factory pattern. This schema acts as a blueprint, ensuring all user input adheres to specified validation rules and maintaining consistency across various form inputs.
+
 ```
 const schema = new SimpleSchema({ email: String, password: String });
 ```
 
 ### Command Pattern
 The submission process utilizes the Command pattern, encapsulating the registration logic within a function that executes when the form is submitted. This design helps in decoupling the execution logic from the action, allowing for better scalability and maintenance.
+
 ```
 const submit = (doc) => { Accounts.createUser({ email, password }); };
 ```
+
 Here is the link to the SignUp component code [GitHub](https://github.com/phoenix-codecrafters/StudyLink/blob/main/app/imports/ui/pages/SignUp.jsx).
 
 In essence, design patterns have not just shaped our software; they've optimized how students connect and succeed together. Using design patterns and effective project management, we've built a "digital campus" where information flows smoothly, updates are easy, and scalability is built-in. StudyLink, structured around these patterns and enhanced with effective tooling, offers a stable and dynamic environment for academic collaboration, much like a well-planned university that supports its students.
