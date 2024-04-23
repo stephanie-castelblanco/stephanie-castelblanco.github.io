@@ -14,10 +14,11 @@ labels:
   - Javascript
 ---
 
-Design patterns are like secret recipes in software development, guiding developers in solving common software challenges. They offer ready-made solutions that save time, make software easy to manage and update, enhance reliability and performance, and help systems grow without becoming unwieldy. For my project, StudyLink, a platform that connects students for collaborative study sessions, these recipes have proven essential in building a robust and efficient system.
-
+Design patterns are like secret recipes in software development, guiding developers in solving common software challenges. They offer ready-made solutions that save time, make software easy to manage and update, enhance reliability and performance, and help systems grow without becoming unwieldy. 
 ## Main visual for StudyLink 
 <img width="200" height="120" class="rounded float-start pe-4" src="../img/main.png" alt="Main visual for StudyLink">
+
+For my project, StudyLink, a platform that connects students for collaborative study sessions, these recipes have proven essential in building a robust and efficient system.
 
 ### Observer Pattern
 In the SignUp component, the Observer pattern is demonstrated through the use of React’s useState. This pattern enables the UI to update reactively whenever there is a change in the sign-up status, illustrating how reactive data management enhances user interface responsiveness.
