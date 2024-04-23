@@ -35,5 +35,6 @@ Command Pattern: The submission process uses the Command pattern, encapsulating 
 ```
 const submit = (doc) => { Accounts.createUser({ email, password }); };
 ```
+Here is the link to the SignUp component code [GitHub]([https://stackoverflow.com/questions/28462190/image-upload-code-is-not-working](https://github.com/phoenix-codecrafters/StudyLink/blob/main/app/imports/ui/pages/SignUp.jsx)).
 
 In essence, design patterns have not just shaped our software; they've optimized how students connect and succeed together. Using design patterns and effective project management, we've built a "digital campus" where information flows smoothly, updates are easy, and scalability is built-in. StudyLink, structured around these patterns and enhanced with effective tooling, offers a stable and dynamic environment for academic collaboration, much like a well-planned university that supports its students.
