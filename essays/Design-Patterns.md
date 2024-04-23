@@ -18,15 +18,22 @@ labels:
 
 Design patterns are like secret recipes in software development, guiding developers in solving common software challenges. They offer ready-made solutions that save time, make software easy to manage and update, enhance reliability and performance, and help systems grow without becoming unwieldy. For my project, StudyLink, a platform that connects students for collaborative study sessions, these recipes have proven essential in building a robust and efficient system.
 
-I have used several design patterns to organize the website, which has helped me better manage StudyLink. The Singleton pattern is like a single key for our database connections, ensuring only one connection is always open, saving resources and avoiding complications. The MVC (Model-View-Controller) pattern organizes the app into three roles:
-- The model manages data and rules.
-- The view displays information like the dashboard.
-- The controller connects the data to the views.
+Observer Pattern: In the SignUp component, the Observer pattern is embodied through the use of React's useState. This pattern updates the UI reactively whenever the sign-up status changes, as shown here:
 
-This helps keep the StudyLink interface fresh without tangling it with the backend logic.
+---
+const [error, setError] = useState('');
+---
 
-The Observer pattern lets parts of our app know when something important changes, such as a study session's time or location. The Factory pattern acts like a registration desk for study sessions, setting up different types of sessions without fuss. It allows flexibility and adaptability in handling various study group formats. The Publish-Subscribe pattern broadcasts updates to students who sign up to listen, keeping everyone informed about session updates without direct communication. The Prototype pattern lets us easily copy and tweak settings for similar study groups, much like using last semester's course outline as a template for this semester's course. The Front Controller pattern handles all requests to the StudyLink site, ensuring they are routed and managed securely and efficiently, much like a main gate manager overseeing who comes in and out.
+Factory Pattern: We use the SimpleSchema to define validation rules for our forms, a clear example of the Factory pattern. This schema acts as a blueprint, ensuring all user input adheres to specified validation rules:
 
-To manage our development process effectively, we use GitHub and an organized project board outlining our milestones. This system helps us track our progress and address issues systematically. Using GitHub's organization page, we maintain an orderly environment where every team member can see updates, manage tasks, and contribute to discussions, ensuring that StudyLink evolves cohesively and according to plan.
+---
+const schema = new SimpleSchema({ email: String, password: String });
+---
+
+Command Pattern: The submission process uses the Command pattern, encapsulating the registration logic within a function that executes when the form is submitted:
+
+---
+const submit = (doc) => { Accounts.createUser({ email, password }); };
+---
 
 In essence, design patterns have not just shaped our software; they've optimized how students connect and succeed together. Using design patterns and effective project management, we've built a "digital campus" where information flows smoothly, updates are easy, and scalability is built-in. StudyLink, structured around these patterns and enhanced with effective tooling, offers a stable and dynamic environment for academic collaboration, much like a well-planned university that supports its students.
