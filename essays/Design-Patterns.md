@@ -16,22 +16,24 @@ labels:
 
 Design patterns are like secret recipes in software development, guiding developers in solving common software challenges. They offer ready-made solutions that save time, make software easy to manage and update, enhance reliability and performance, and help systems grow without becoming unwieldy. For my project, StudyLink, a platform that connects students for collaborative study sessions, these recipes have proven essential in building a robust and efficient system.
 
+## Main visual for StudyLink 
 <img width="200px" class="rounded float-start pe-4" src="../img/signup.png" alt="Main visual for StudyLink">
 
-Observer Pattern: In the SignUp component, the Observer pattern is embodied through the use of React's useState. This pattern updates the UI reactively whenever the sign-up status changes, as shown here:
+### Observer Pattern
+In the SignUp component, the Observer pattern is demonstrated through the use of React’s useState. This pattern enables the UI to update reactively whenever there is a change in the sign-up status, illustrating how reactive data management enhances user interface responsiveness.
 
 ```
 const [error, setError] = useState('');
 ```
 
-Factory Pattern: We use the SimpleSchema to define validation rules for our forms, a clear example of the Factory pattern. This schema acts as a blueprint, ensuring all user input adheres to specified validation rules:
-
+### Factory Pattern
+We use the SimpleSchema to define validation rules for our forms, which is a clear example of the Factory pattern. This schema acts as a blueprint, ensuring all user input adheres to specified validation rules and maintaining consistency across various form inputs.
 ```
 const schema = new SimpleSchema({ email: String, password: String });
 ```
 
-Command Pattern: The submission process uses the Command pattern, encapsulating the registration logic within a function that executes when the form is submitted:
-
+### Command Pattern
+The submission process utilizes the Command pattern, encapsulating the registration logic within a function that executes when the form is submitted. This design helps in decoupling the execution logic from the action, allowing for better scalability and maintenance.
 ```
 const submit = (doc) => { Accounts.createUser({ email, password }); };
 ```
