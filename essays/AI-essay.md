@@ -86,8 +86,9 @@ Looking forward, I am eager to incorporate AI tools like GitHub Copilot and AI-p
 •	Enhanced Code Quality: AI's ability to detect bugs and suggest optimal coding practices could help in maintaining a high standard of code quality. <br />
 •	Innovative Problem Solving: With AI’s assistance in handling complex algorithms or data analysis, I can engage more deeply with innovative solutions to challenging problems.
 
-### V. Challenges and Opportunities:
 <br />
+### V. Challenges and Opportunities:
+
 #### Challenges: 
 The reliance on AI for problem-solving could inhibit critical thinking and skill development in students. Additionally, AI tools might not always provide accurate or complete information, which could lead to misconceptions.
 
