@@ -7,10 +7,11 @@ date: 2024-04-28
 published: true
 labels:
   - AI
-  - Programing
-
-  -
-  - 
+  - Programming
+  - Software Engineering
+  - Learning
+  - interests
+  - skills
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
@@ -33,8 +34,11 @@ Coding Example: Error Detection and Solution in React
 Background: While working on a React project, I encountered a bug related to state management that caused the UI to not update correctly after state changes. This problem appeared under complex scenarios such as conditional rendering or during asynchronous operations.
 
 Problem Code:
+```jsx
 
-import React, { useState } from 'react'; function Counter() { const [count, setCount] = useState(0); const increment = () => { setCount(count + 1); }; return ( <div> <p>{count}</p> <button onClick={increment}>Increment</button> </div> ); } 
+import React, { useState } from 'react'; function Counter() { const [count, setCount] = useState(0); const increment = () => { setCount(count + 1); }; return ( <div> <p>{count}</p> <button onClick={increment}>Increment</button> </div> ); }
+
+```
 Issue Description: I was struggling to understand why the counter wasn't updating under certain conditions, which complicated debugging efforts.
 AI-Assisted Solution: I discussed the issue with AI (specifically, ChatGPT), providing details about when the problem occurred and the symptoms. The AI suggested several troubleshooting steps:
 Functional Update: It recommended using a functional update form for setCount to ensure the count updates correctly based on the previous state, which is crucial in complex scenarios:
