@@ -101,6 +101,5 @@ However, there are also several undeniable benefits to incorporating AI into edu
 •	Balance Between AI Assistance and Foundational Skills: Ensuring AI aids without replacing the development of essential skills. <br />
 •	Continual Updating of AI Tools: Keeping AI tools up-to-date with industry changes to maintain relevance.
 
-<br />
 ### VIII. Conclusion:
 The role of AI in education is expanding and offering promising benefits for interactive and effective learning. The integration of AI into software engineering education has been found to be profoundly beneficial, making learning more efficient and engaging while preparing students for the complexities of tomorrow's technological challenges. As AI continues to permeate various facets of education and industry, we must explore its potential responsibly while ensuring that it complements fundamental engineering skills and enhances overall human capability. It is crucial to balance the use of AI in education to ensure that students continue to develop fundamental skills and ethical understanding. With proper implementation, AI will revolutionize the education sector, offering new and exciting opportunities for students to learn and grow.
