@@ -70,22 +70,22 @@ Although I have not yet had the opportunity to apply AI tools in real-world soft
 
 <br />
 ### Future Plans and Anticipated Benefits: 
-Looking forward, I am eager to incorporate AI tools like GitHub Copilot and AI-powered testing frameworks in my future projects, internships, or hackathons like the Hawaii Annual Code Challenge (HACC). I anticipate that the use of these tools will allow for:
-•	Increased Efficiency: By automating routine coding tasks, I can focus more on creative aspects of software development and problem-solving.
-•	Enhanced Code Quality: AI's ability to detect bugs and suggest optimal coding practices could help in maintaining a high standard of code quality.
+Looking forward, I am eager to incorporate AI tools like GitHub Copilot and AI-powered testing frameworks in my future projects, internships, or hackathons like the Hawaii Annual Code Challenge (HACC). I anticipate that the use of these tools will allow for: <br />
+•	Increased Efficiency: By automating routine coding tasks, I can focus more on creative aspects of software development and problem-solving. <br />
+•	Enhanced Code Quality: AI's ability to detect bugs and suggest optimal coding practices could help in maintaining a high standard of code quality. <br />
 •	Innovative Problem Solving: With AI’s assistance in handling complex algorithms or data analysis, I can engage more deeply with innovative solutions to challenging problems.
 
 ### Challenges: 
 The reliance on AI for problem-solving could inhibit critical thinking and skill development in students. Additionally, AI tools might not always provide accurate or complete information, which could lead to misconceptions.
 
 ### Opportunities:
-•	Interactive Learning: AI can create personalized and interactive experiences, like real-time feedback on coding projects.
-•	Automated Testing: AI can improve automated testing systems, helping students write more robust code.
+•	Interactive Learning: AI can create personalized and interactive experiences, like real-time feedback on coding projects. <br />
+•	Automated Testing: AI can improve automated testing systems, helping students write more robust code. <br />
 •	Collaborative Projects: AI can enhance collaboration on group projects by efficiently managing and merging contributions.
 
 ### Traditional vs. AI-Enhanced Teaching Methods:
-•	Engagement: AI-enhanced methods, such as interactive coding sessions, offer more hands-on experiences, increasing student engagement compared to traditional lectures.
-•	Knowledge Retention: AI tools can adapt to individual learning paces and styles, improving knowledge retention.
+•	Engagement: AI-enhanced methods, such as interactive coding sessions, offer more hands-on experiences, increasing student engagement compared to traditional lectures. <br />
+•	Knowledge Retention: AI tools can adapt to individual learning paces and styles, improving knowledge retention. <br />
 •	Skill Development: AI methods provide practical applications and real-world problem-solving, enhancing skill development beyond traditional teaching.
 
 ### The future of AI in software engineering education involves:
