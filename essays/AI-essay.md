@@ -37,9 +37,19 @@ Background: While working on a React project, I encountered a bug related to sta
 
 #### Problem Code:
 ```jsx
-
-import React, { useState } from 'react'; function Counter() { const [count, setCount] = useState(0); const increment = () => { setCount(count + 1); }; return ( <div> <p>{count}</p> <button onClick={increment}>Increment</button> </div> ); }
-
+import React, { useState } from 'react';
+function Counter() {
+  const [count, setCount] = useState(0);
+  const increment = () => {
+    setCount(count + 1);
+  };
+  return (
+    <div>
+      <p>{count}</p>
+      <button onClick={increment}>Increment</button>
+    </div>
+  );
+}
 ```
 
 Issue Description: I was struggling to understand why the counter wasn't updating under certain conditions, which complicated debugging efforts.
