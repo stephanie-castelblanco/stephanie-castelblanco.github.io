@@ -21,7 +21,7 @@ Here are my experiences with AI in different aspects of software engineering edu
 
 <br />
 ### II. Personal Experience with AI:
-1.	**Experience WODs (E.g., E18):** I did not use AI for the Experience WODs, as they come with comprehensive explanations and follow-up steps, making additional AI assistance unnecessary. 
+1.	**Experience WODs** I did not use AI for the Experience WODs, as they come with comprehensive explanations and follow-up steps, making additional AI assistance unnecessary. 
 2.	**In-class Practice WODs:** I used AI to speed up the process of writing code, since these exercises have time constraints and speed is crucial.
 3.	**In-class WODs:** Similar to practice WODs, I relied on AI to write code more quickly to cope with the time limitations during these sessions.
 4.	**Essays:** I utilized AI to summarize articles, which made it easier for me to extract relevant information and incorporate it into my essays effectively.
@@ -74,7 +74,9 @@ This guidance helped me think through the problem systematically, providing both
 11.	**Writing Code:** AI has been used to assist in writing my code, whether through suggesting snippets or completing lines of code.
 12.**Documenting Code:** I use AI to enhance my code documentation. It helps in explaining what specific functions or blocks of code do, which is beneficial for both my understanding and that of future readers.
 13.	**Quality Assurance** (E.g., identifying issues or fixing ESLint errors): AI has been applied to identify errors or quality issues in my code, such as linting problems or logical errors.
+    
 <br />
+
 ### III. Impact on Learning and Understanding:    
 AI tools have been instrumental in enhancing my understanding of complex software engineering concepts. Specifically, while building websites using React, ChatGPT's assistance in debugging and understanding nuanced aspects of React state management and component lifecycle has significantly accelerated my learning curve. I am now able to grasp intricate details that would have otherwise required more time and effort to understand.
 
