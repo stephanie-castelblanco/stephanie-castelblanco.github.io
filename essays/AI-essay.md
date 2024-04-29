@@ -15,6 +15,8 @@ labels:
 ---
 <img width="300px"class="rounded float-start pe-4" src="../img/smart-questions/AI.png">
 
+<img width="300px" class="rounded float-start pe-4" src="../img/AI-essay/AI.png" alt="AI in Education">
+
 Artificial Intelligence (AI) is revolutionizing software engineering education, making it more efficient and interactive. AI-powered tools like ChatGPT and GitHub Copilot are equipping students with a competitive edge, providing a glimpse into the future of technology. By integrating AI into software engineering education, we are nurturing a new generation of engineers who are confident in their ability to tackle the tech challenges of tomorrow.
 Here are my experiences with AI in different aspects of software engineering education:
 
