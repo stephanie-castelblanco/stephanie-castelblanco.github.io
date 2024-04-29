@@ -13,7 +13,6 @@ labels:
   - interests
   - skills
 ---
-<img width="300px"class="rounded float-start pe-4" src="../img/smart-questions/AI.png">
 
 <img width="300px" class="rounded float-start pe-4" src="../img/AI-essay/AI.png" alt="AI in Education">
 
