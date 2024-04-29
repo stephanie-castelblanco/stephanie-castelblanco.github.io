@@ -45,7 +45,7 @@ import React, { useState } from 'react'; function Counter() { const [count, setC
 Issue Description: I was struggling to understand why the counter wasn't updating under certain conditions, which complicated debugging efforts.
 AI-Assisted Solution: I discussed the issue with AI (specifically, ChatGPT), providing details about when the problem occurred and the symptoms. The AI suggested several 
 
-### troubleshooting steps:
+#### troubleshooting steps:
 - Functional Update: It recommended using a functional update form for setCount to ensure the count updates correctly based on the previous state, which is crucial in complex scenarios:
 
 ```
@@ -54,7 +54,7 @@ const increment = () => { setCount(prevCount => prevCount + 1); };
 
 - Dependency Check: The AI advised checking all dependencies in any useEffect hooks to ensure they are correctly listed, addressing potential issues related to effect misfires.
 
-### Outcome: 
+#### Outcome: 
 This guidance helped me think through the problem systematically, providing both specific coding solutions and general best practices. It significantly enhanced my understanding and efficiency in debugging, showcasing the practical benefits of AI in software development.
 
 11.	Explaining Code: I regularly use AI to help document and explain my code. Its ability to clarify complex logic in simple terms makes my code more understandable to others.
