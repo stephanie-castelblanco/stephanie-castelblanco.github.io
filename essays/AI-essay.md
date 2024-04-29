@@ -73,8 +73,8 @@ This guidance helped me think through the problem systematically, providing both
 10. **Explaining Code:** I regularly use AI to help document and explain my code. Its ability to clarify complex logic in simple terms makes my code more understandable to others.
 11.	**Writing Code:** AI has been used to assist in writing my code, whether through suggesting snippets or completing lines of code.
 12.**Documenting Code:** I use AI to enhance my code documentation. It helps in explaining what specific functions or blocks of code do, which is beneficial for both my understanding and that of future readers.
-13.	Quality Assurance (E.g., identifying issues or fixing ESLint errors): AI has been applied to identify errors or quality issues in my code, such as linting problems or logical errors.
-
+13.	**Quality Assurance** (E.g., identifying issues or fixing ESLint errors): AI has been applied to identify errors or quality issues in my code, such as linting problems or logical errors.
+<br />
 ### III. Impact on Learning and Understanding:    
 AI tools have been instrumental in enhancing my understanding of complex software engineering concepts. Specifically, while building websites using React, ChatGPT's assistance in debugging and understanding nuanced aspects of React state management and component lifecycle has significantly accelerated my learning curve. I am now able to grasp intricate details that would have otherwise required more time and effort to understand.
 
