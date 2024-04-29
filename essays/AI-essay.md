@@ -69,7 +69,7 @@ In addition to error detection, GitHub Copilot's real-time suggestions of code s
 Although I have not yet had the opportunity to apply AI tools in real-world software engineering projects outside of my ICS 314 class, my experiences within the course have clearly demonstrated the potential benefits of AI integration. These classroom encounters have equipped me with a foundational understanding of how AI can enhance software development processes, including debugging, code optimization, and automated testing. I am confident that AI-powered tools will continue to play an increasingly important role in software development, and I look forward to exploring their full potential in the future.
 
 <br />
-### Future Plans and Anticipated Benefits: 
+### Future Plans and Anticipated Benefits:
 Looking forward, I am eager to incorporate AI tools like GitHub Copilot and AI-powered testing frameworks in my future projects, internships, or hackathons like the Hawaii Annual Code Challenge (HACC). I anticipate that the use of these tools will allow for: <br />
 •	Increased Efficiency: By automating routine coding tasks, I can focus more on creative aspects of software development and problem-solving. <br />
 •	Enhanced Code Quality: AI's ability to detect bugs and suggest optimal coding practices could help in maintaining a high standard of code quality. <br />
