@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI's Role in Software Engineering Education"
+title: "AI's Role in My Software Engineering Education"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-28
 published: true
