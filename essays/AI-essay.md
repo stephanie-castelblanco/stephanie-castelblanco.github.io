@@ -65,9 +65,7 @@ const increment = () => { setCount(prevCount => prevCount + 1); };
 - Dependency Check: The AI advised checking all dependencies in any useEffect hooks to ensure they are correctly listed, addressing potential issues related to effect misfires.
 
 #### Outcome: 
-This guidance helped me think through the problem systematically, providing both specific coding solutions and general best practices. It significantly enhanced my understanding and efficiency in debugging, showcasing the practical benefits of AI in software development.
-
-<br />
+This guidance helped me think through the problem systematically, providing both specific coding solutions and general best practices. It significantly enhanced my understanding and efficiency in debugging, showcasing the practical benefits of AI in software development. <br />
 
 
 10. **Explaining Code:** I regularly use AI to help document and explain my code. Its ability to clarify complex logic in simple terms makes my code more understandable to others.
