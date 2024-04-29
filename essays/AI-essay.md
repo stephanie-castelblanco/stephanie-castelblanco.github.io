@@ -21,15 +21,15 @@ Here are my experiences with AI in different aspects of software engineering edu
 
 <br />
 ### II. Personal Experience with AI:
-1.	Experience WODs (E.g., E18): I did not use AI for the Experience WODs, as they come with comprehensive explanations and follow-up steps, making additional AI assistance unnecessary. 
-2.	In-class Practice WODs: I used AI to speed up the process of writing code, since these exercises have time constraints and speed is crucial.
-3.	In-class WODs: Similar to practice WODs, I relied on AI to write code more quickly to cope with the time limitations during these sessions.
-4.	Essays: I utilized AI to summarize articles, which made it easier for me to extract relevant information and incorporate it into my essays effectively.
-5.	Final Project: I employed AI to detect errors in my code, which proved to be immensely helpful, enhancing both efficiency and accuracy in debugging.
-6.	Learning a Concept / Tutorial: I attempted to use AI to learn new concepts and follow tutorials, but it was not as effective as I expected. Consequently, I turned to other platforms for better explanations.
-7.	Grammar Review: I consistently use a grammar AI tool to check and refine my grammar before responding to questions on Discord, ensuring clarity and correctness in my communications.
-8.	Asking or Answering a Smart Question: I tried using AI to ask or answer complex questions but found the responses inadequate. This led me to seek clarification directly from my instructor.
-9.	Coding Example (E.g., using Underscore .pluck):
+1.	**Experience WODs (E.g., E18):** I did not use AI for the Experience WODs, as they come with comprehensive explanations and follow-up steps, making additional AI assistance unnecessary. 
+2.	**In-class Practice WODs:** I used AI to speed up the process of writing code, since these exercises have time constraints and speed is crucial.
+3.	**In-class WODs:** Similar to practice WODs, I relied on AI to write code more quickly to cope with the time limitations during these sessions.
+4.	**Essays:** I utilized AI to summarize articles, which made it easier for me to extract relevant information and incorporate it into my essays effectively.
+5.	**Final Project:** I employed AI to detect errors in my code, which proved to be immensely helpful, enhancing both efficiency and accuracy in debugging.
+6.	**Learning a Concept / Tutorial:** I attempted to use AI to learn new concepts and follow tutorials, but it was not as effective as I expected. Consequently, I turned to other platforms for better explanations.
+7.	**Grammar Review:** I consistently use a grammar AI tool to check and refine my grammar before responding to questions on Discord, ensuring clarity and correctness in my communications.
+8.	**Asking or Answering a Smart Question:** I tried using AI to ask or answer complex questions but found the responses inadequate. This led me to seek clarification directly from my instructor.
+9.	**Coding Example** (E.g., using Underscore .pluck):
     
 #### Coding Example: Error Detection and Solution in React
 
@@ -70,9 +70,9 @@ This guidance helped me think through the problem systematically, providing both
 <br />
 
 
-10. Explaining Code: I regularly use AI to help document and explain my code. Its ability to clarify complex logic in simple terms makes my code more understandable to others.
-11.	Writing Code: AI has been used to assist in writing my code, whether through suggesting snippets or completing lines of code.
-12.	Documenting Code: I use AI to enhance my code documentation. It helps in explaining what specific functions or blocks of code do, which is beneficial for both my understanding and that of future readers.
+10. **Explaining Code:** I regularly use AI to help document and explain my code. Its ability to clarify complex logic in simple terms makes my code more understandable to others.
+11.	**Writing Code:** AI has been used to assist in writing my code, whether through suggesting snippets or completing lines of code.
+12.**Documenting Code:** I use AI to enhance my code documentation. It helps in explaining what specific functions or blocks of code do, which is beneficial for both my understanding and that of future readers.
 13.	Quality Assurance (E.g., identifying issues or fixing ESLint errors): AI has been applied to identify errors or quality issues in my code, such as linting problems or logical errors.
 
 ### III. Impact on Learning and Understanding:    
