@@ -68,6 +68,7 @@ const increment = () => { setCount(prevCount => prevCount + 1); };
 This guidance helped me think through the problem systematically, providing both specific coding solutions and general best practices. It significantly enhanced my understanding and efficiency in debugging, showcasing the practical benefits of AI in software development.
 
 <br />
+
 10.	Explaining Code: I regularly use AI to help document and explain my code. Its ability to clarify complex logic in simple terms makes my code more understandable to others.
 11.	Writing Code: AI has been used to assist in writing my code, whether through suggesting snippets or completing lines of code.
 12.	Documenting Code: I use AI to enhance my code documentation. It helps in explaining what specific functions or blocks of code do, which is beneficial for both my understanding and that of future readers.
