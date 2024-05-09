@@ -10,12 +10,11 @@ labels:
   - React
   - MongoDB
   - ESLint
-summary: "Working on StudyLink taught me the importance of effective team collaboration and project management. Utilizing tools like Meteor and React, along with managing tasks through project boards, likely enhanced your ability to work efficiently within a team and adhere to timelines. "
+summary: "Working on StudyLink taught me the importance of effective team collaboration and project management. Utilizing tools like Meteor and React, along with managing tasks through project boards, likely enhanced your ability to work efficiently within a team and adhere to timelines."
 ---
 
-
 <br />
-<img width="280px" class="img-fluid" src="../img/japan.png">  
+<img width="280px" class="img-fluid" src="../img/LandingPage.png">  
 
 Project Overview:
 StudyLink is a dynamic web platform designed to facilitate academic collaboration among students. It provides tools for creating, managing, and attending study sessions, with an integrated calendar and a user-friendly interface aimed at enhancing the overall learning experience.
