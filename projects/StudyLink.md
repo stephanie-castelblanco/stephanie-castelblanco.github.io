@@ -10,7 +10,7 @@ labels:
   - React
   - MongoDB
   - ESLint
-summary: "Developer/Project"
+summary: "Working on StudyLink taught me the importance of effective team collaboration and project management. Utilizing tools like Meteor and React, along with managing tasks through project boards, likely enhanced your ability to work efficiently within a team and adhere to timelines. "
 ---
 
 
