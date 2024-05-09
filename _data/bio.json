@@ -27,7 +27,7 @@
   },
   {
     "name": "Spoken Languages",
-    "keywords": ["Spanish"]
+    "keywords": ["Spanish, English"]
   }
   ],
   "education": [
@@ -44,17 +44,16 @@
 
     "work": [
     {
-      "company": "Aloha Hospitality Professionals",
-      "position": "Event Hospitality Staff",
+      "company": "Memoirs",
+      "position": "Event staff",
       "website": "",
-      "startDate": "2022-06-01",
+      "startDate": "2024-30-03",
       "endDate": "Present",
       "summary": "Part-Time Gig",
       "highlights": [
         "Ensure seamless server performance and guest satisfaction",
-        "Set up all tables and food service areas with chairs, linens and dishes",
+        "Set up event",
         "Set Up Buffet or Serving Stations",
-        "Supervise servers activities and hospitality services",
         "Serve food to guests at events."
       ]
     }
