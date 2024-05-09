@@ -4,7 +4,7 @@ type: project
 image: img/japan.png
 title: "Japan Trip"
 date: 2023
-published: false
+published: true
 labels:
   - Traveler
   - Japan
