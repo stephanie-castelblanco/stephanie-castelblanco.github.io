@@ -5,7 +5,7 @@ type: essay
 title: "Seamless Synergy: Design Patterns Empowering StudyLink"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-22
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
