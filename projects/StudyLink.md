@@ -9,8 +9,23 @@ labels:
   - Traveler
   - Japan
   - places to go 
-summary: "Tips and places to visit when traveling to Japan."
+summary: "Working on StudyLink taught me the importance of effective team collaboration and project management. Utilizing tools like Meteor and React, along with managing tasks through project boards, likely enhanced your ability to work efficiently within a team and adhere to timelines."
 ---
+
+
+layout: project
+type: project
+image: img/japan.png
+title: "StudyLink"
+date: 2024
+published: true
+labels:
+  - Meteor
+  - React
+  - MongoDB
+  - ESLint
+
+
 
 <br />
 <img width="280px" class="img-fluid" src="../img/LandingPage.png">  
