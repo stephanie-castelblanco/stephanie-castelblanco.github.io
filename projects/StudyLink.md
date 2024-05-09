@@ -78,7 +78,7 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 
 <br />
 
-<img width="300px" class="rounded float-start pe-4" src="../img/6.jpeg">
+<img width="280px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
 
