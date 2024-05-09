@@ -21,10 +21,14 @@
     { "name": "Travel" }
   ],
   "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "spanish" ]
-    },
+  {
+    "name": "Programming Languages",
+    "keywords": ["C", "C++", "JavaScript"]
+  },
+  {
+    "name": "Spoken Languages",
+    "keywords": ["Spanish"]
+  }
   ],
   "education": [
     {
