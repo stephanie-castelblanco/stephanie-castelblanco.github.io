@@ -67,8 +67,8 @@
   ],
   "Activities":  [
     {
-      "name": "Hike",
-      "keywords": [ "study" , "nature", "traveler" ,"explore"  ]
+      "name": "study",
+      "keywords": [ "Hike" , "nature", "traveler" ,"explore"  ]
     }
   ],
   
