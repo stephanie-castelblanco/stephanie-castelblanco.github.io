@@ -15,7 +15,7 @@ summary: "Working on StudyLink enhanced my teamwork and project management abili
 
 <br />
 <img width="200px" class="img-fluid mb-3" src="../img/LandingPage.png">  
-Working on StudyLink underscored the critical role of effective team collaboration and project management. Utilizing tools like Meteor, React, and project boards, I significantly improved our team's efficiency and adherence to project timelines. This experience deepened my understanding of agile and iterative development methodologies. Moreover, developing StudyLink allowed me to enhance my full-stack development capabilities extensively, gaining practical experience in database setup, user interface design, and integration of essential libraries like Fullcalendar.
+During my time working on StudyLink, I learned the importance of effective teamwork and project management. By utilizing tools such as Meteor, React, and project boards, I was able to significantly improve our team's efficiency and ensure that we met our project timelines. This experience helped me to deepen my understanding of agile and iterative development methodologies. Furthermore, working on StudyLink allowed me to enhance my full-stack development skills, as I gained practical experience in setting up databases, designing user interfaces, and integrating important libraries such as Fullcalendar.
 
 ## Project Overview
 StudyLink is a dynamic web platform designed to facilitate academic collaboration among students. It offers comprehensive tools for creating, managing, and attending study sessions, equipped with an integrated calendar and a user-friendly interface to enhance the learning experience.
