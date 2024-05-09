@@ -14,7 +14,8 @@ summary: "Working on StudyLink enhanced my teamwork and project management abili
 ---
 
 <br />
-<img width="240px" class="img-fluid" src="../img/LandingPage.png">  
+<img width="200px" class="img-fluid" src="../img/LandingPage.png">  
+
 Working on StudyLink highlighted the significance of effective team collaboration and project management. The use of Meteor and React, coupled with project boards, improved my team efficiency and adherence to deadlines, deepening my grasp of agile and iterative development techniques. Developing StudyLink with Meteor, React, and MongoDB significantly enhanced my full-stack development skills. I gained experience in everything from database setup to user interface creation and integrating libraries like Fullcalendar, essential for building scalable web applications.
 
 # Project Overview:
