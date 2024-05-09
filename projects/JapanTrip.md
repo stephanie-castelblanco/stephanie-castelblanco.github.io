@@ -14,9 +14,8 @@ summary: "Tips and places to visit when traveling to Japan."
 
 
 <br />
-<img width="300px" class="img-fluid" src="../img/japan.png">  
+<img width="280px" class="img-fluid" src="../img/japan.png">  
 
-<br />
 **Purpose and Objectives: This project was a journey of exploration and discovery of Japan’s attractions, one of the world's most popular tourist destinations. The objectives were to visit three major cities in Japan, Tokyo, Osaka, and Kyoto, and to learn about their unique features and differences.**
 
 
@@ -79,7 +78,7 @@ As Japan's former capital and cultural heart, Kyoto is enchanted with its elegan
 
 <br />
 
-<img width="300px" class="rounded float-start pe-4" src="../img/6.jpeg">
+<img width="290px" class="rounded float-start pe-4" src="../img/6.jpeg">
 
 <br />
 
