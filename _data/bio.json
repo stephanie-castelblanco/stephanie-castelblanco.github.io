@@ -14,12 +14,14 @@
       { "network": "instagram", "username": "steph_c.c", "url": "http://instagram.com/steph_c.c" }
     ]
   },
+  
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Learning Languages" },
     { "name": "Photography" },
     { "name": "Travel" }
   ],
+  
   "skills": [
   {
     "name": "Programming Languages",
@@ -30,6 +32,7 @@
     "keywords": ["Spanish, English"]
   }
   ],
+  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI", 
@@ -65,6 +68,7 @@
       "summary": "The Dean’s List recognizes students who maintain outstanding academic records at Leeward Community College."
     }
   ],
+  
   "Activities":  [
     {
       "name": "study",
