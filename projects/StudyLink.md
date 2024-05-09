@@ -10,7 +10,7 @@ labels:
   - React
   - MongoDB
   - ESLint
-summary: "Working on StudyLink improved my teamwork and project management skills, enhancing efficiency and adherence to timelines through the use of Meteor, React, and project boards."
+summary: "Working on StudyLink enhanced my teamwork and project management abilities, boosting efficiency and timeline adherence with tools like Meteor, React, and project boards."
 ---
 
 <br />
