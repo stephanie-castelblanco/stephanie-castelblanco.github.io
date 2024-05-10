@@ -6,12 +6,12 @@ title: "My Journey in Software Engineering: From Concepts to Application"
 date: 2024-05-09
 published: true
 labels:
-  - AI
-  - Programming
   - Software Engineering
-  - Learning
-  - interests
+  - real world 
+  - Programming
+  - journey
   - skills
+  - Learning
 ---
 <br />
 <img width="700px" height="100px" class="rounded float-start pe-4" src="../img/software.png">
