@@ -14,7 +14,7 @@ labels:
   - Learning
 ---
 <br />
-<img width="1060px" height="100px" class="rounded float-start pe-4" src="../img/Engineering-innovation.png">
+<img width="1090px" height="100px" class="rounded float-start pe-4" src="../img/Engineering-innovation.png">
 
 <br />
 
