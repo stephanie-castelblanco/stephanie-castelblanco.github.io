@@ -14,12 +14,13 @@ labels:
   - Learning
 ---
 <br />
-<img width="1020px" height="100px" class="rounded float-start pe-4" src="../img/software.png">
+<img width="1050px" height="100px" class="rounded float-start pe-4" src="../img/software.png">
 
 
 <br />
 
-<img width="1020px" height="100px" class="rounded float-start pe-4" src="../img/Engineering-innovation.png">
+
+<img width="1060px" height="100px" class="rounded float-start pe-4" src="../img/Engineering-innovation.png">
 
 
 <br />
