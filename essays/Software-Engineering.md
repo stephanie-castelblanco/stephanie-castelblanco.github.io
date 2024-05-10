@@ -14,7 +14,7 @@ labels:
   - skills
 ---
 <br />
-<img width="500px" height="140px" class="rounded float-start pe-4" src="../img/software.png">
+<img width="700px" height="100px" class="rounded float-start pe-4" src="../img/software.png">
 
 ## Introduction 
 Looking back on my journey through software engineering, I have come to appreciate it not only as a field of study but also as a dynamic arena where creativity meets functionality and where the principles of science are applied to solve real-world problems. This reflection covers the breadth of experiences and lessons I have learned from my studies, projects like StudyLink, and the continuous learning that the field demands.
