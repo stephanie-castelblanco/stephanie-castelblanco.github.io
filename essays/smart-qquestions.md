@@ -14,10 +14,6 @@ labels:
 
 <br />
 
-   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fkvk8okhlzdcmv11v4z0r.gif" 
-     alt="Cartoon showing ones and zeros"
-     width="351"
-     class="rounded float-start pe-4">
 
 
 ## What’s a smart question?
