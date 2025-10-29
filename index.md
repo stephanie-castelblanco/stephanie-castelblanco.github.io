@@ -1,6 +1,6 @@
 ---
-title: Projects
-layout: default
+title: Home
+layout: home
 ---
 
 {% include about/about.html %}
