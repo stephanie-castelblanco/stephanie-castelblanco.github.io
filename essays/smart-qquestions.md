@@ -4,7 +4,7 @@ type: essay
 title: "Mastering Smart Questions: A Guide for Effective Technical Support"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: false
+published: true
 labels:
   - Questions
   - Answers
