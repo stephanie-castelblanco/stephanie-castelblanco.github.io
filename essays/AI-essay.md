@@ -4,7 +4,7 @@ type: essay
 title: "AI's Role in My Software Engineering Education"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-28
-published: true
+published: false
 labels:
   - AI
   - Programming
@@ -14,6 +14,11 @@ labels:
   - skills
 ---
 <br />
+
+   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fkvk8okhlzdcmv11v4z0r.gif" 
+     alt="Cartoon showing ones and zeros"
+     width="351"
+     class="rounded float-start pe-4">
 
 ### I. Introduction 
 Artificial Intelligence (AI) is revolutionizing software engineering education, making it more efficient and interactive. AI-powered tools like ChatGPT and GitHub Copilot are equipping students with a competitive edge, providing a glimpse into the future of technology. By integrating AI into software engineering education, we are nurturing a new generation of engineers who are confident in their ability to tackle the tech challenges of tomorrow.
