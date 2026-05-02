@@ -4,7 +4,7 @@ type: project
 image: img/learn.png
 title: "Empowering Parents: Computer Literacy Program"
 date: 2013
-published: true
+published: false
 labels:
   - computers
   - software
