@@ -4,7 +4,7 @@ type: project
 image: img/pocker.png
 title: "Pocker Connections"
 date: 2014
-published: true
+published: false
 labels:
   - Pocker
   - seniors
