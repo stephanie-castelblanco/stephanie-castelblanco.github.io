@@ -1,86 +1,171 @@
 {
   "basics": {
     "name": "Stephanie Castelblanco",
-    "label": "Student",
+    "label": "Cybersecurity Graduate | CompTIA Security+ Certified",
     "picture": "https://github.com/stephanie-castelblanco.png",
     "email": "scastelb@hawaii.edu",
     "phone": "",
     "website": "https://stephanie-castelblanco.github.io",
-    "summary": "Recent University of Hawaii at Manoa graduate with a B.S. in Computer and Security Sciences and CompTIA Security+ certification (SY0-701). Passionate about cybersecurity with hands-on experience in network defense, threat analysis, vulnerability scanning, and system hardening using tools like Wireshark and Nmap. Currently pursuing HTB Certified Junior Cybersecurity Associate (HTB CJCA). Seeking entry-level opportunities in SOC monitoring, incident triage, or governance/risk/compliance. Bilingual in English and Spanish",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Recent University of Hawaiʻi at Mānoa graduate (B.S. in Computer Science, Security Science), cum laude with a 3.67 GPA, and CompTIA Security+ (SY0-701) certified. Strong academic foundation in computer system security, digital forensics, cryptography, and data networks, with hands-on coursework experience using Wireshark, Nmap, Nessus, OpenVAS, and Autopsy. Currently working through the HTB Certified Junior Cybersecurity Associate path. Seeking entry-level roles in SOC monitoring, IT security, IT audit, or GRC. Bilingual in English and Spanish.",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "stephanie-castelblanco", "url": "https://github.com/stephanie-castelblanco" },
-      { "network": "linkedin", "username": "stephanie-castelblanco", "url": "http://linkedin.com/in/stephanie-castelblanco"},
-      { "network": "instagram", "username": "steph_c.c", "url": "http://instagram.com/steph_c.c" }
+      { "network": "linkedin", "username": "stephanie-castelblanco", "url": "https://linkedin.com/in/stephanie-castelblanco" }
     ]
   },
-  
+
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Learning Languages" },
-    { "name": "Photography" },
-    { "name": "Travel" }
+    { "name": "Cybersecurity", "keywords": ["SOC operations", "Digital forensics", "GRC", "Compliance"] },
+    { "name": "Languages" },
+    { "name": "Travel" },
+    { "name": "Photography" }
   ],
-  
+
   "skills": [
-  {
-    "name": "Programming Languages",
-    "keywords": ["C", "C++", "JavaScript", "HTML/CSS Meteor", "React", "MongoDB", "React-Bootstrap", "ESLint", "Meteor Development Tools" ]
-  },
-  {
-    "name": "Spoken Languages",
-    "keywords": ["Spanish, English"]
-  }
+    {
+      "name": "Security Tools (coursework & labs)",
+      "keywords": ["Wireshark", "Nmap", "Nessus", "OpenVAS", "Autopsy"]
+    },
+    {
+      "name": "Security & Compliance Concepts",
+      "keywords": ["Network defense", "Vulnerability scanning", "Threat analysis", "Risk assessment", "Access control", "Digital forensics", "Cryptography fundamentals", "Security policies and ethics", "Privacy compliance (HIPAA / GDPR / FERPA)", "GRC fundamentals", "CIA triad"]
+    },
+    {
+      "name": "Networking & Operating Systems",
+      "keywords": ["OSI and TCP/IP fundamentals", "Network traffic analysis", "Windows fundamentals", "Linux fundamentals"]
+    },
+    {
+      "name": "Programming & Tools",
+      "keywords": ["JavaScript", "React", "Meteor", "MongoDB", "Git/GitHub", "ESLint"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["English (professional)", "Spanish (professional)"]
+    }
   ],
-  
+
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI", 
-      "area": "Computer Science (expected Fall, 2025)",
+      "institution": "University of Hawaiʻi at Mānoa",
+      "area": "Computer Science, Security Science — cum laude, GPA 3.67",
       "studyType": "B.S.",
-      "startDate": "2024-09-01",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "courses": [
+        "Computer System Security (A+)",
+        "Digital Forensics (A+)",
+        "Computer Security and Ethics (A+)",
+        "Data Security & Cryptography I (A)",
+        "Data Networks (A)",
+        "Security and Trust I",
+        "Operating Systems",
+        "Algorithms",
+        "Database Systems I",
+        "Software Engineering I (A)"
+      ]
+    },
+    {
+      "institution": "Leeward Community College",
+      "area": "Natural Science",
+      "studyType": "A.S.",
+      "startDate": "2021-08-01",
+      "endDate": "2023-12-31"
+    },
+    {
+      "institution": "Leeward Community College",
+      "area": "Business Management",
+      "studyType": "A.A.",
+      "startDate": "2019-05-01",
+      "endDate": "2021-05-31"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "CompTIA Security+ ce (SY0-701)",
+      "issuer": "CompTIA",
+      "date": "2026-04",
+      "expires": "2029-04",
+      "credentialId": "COMP001022965314"
+    },
+    {
+      "name": "HTB Certified Junior Cybersecurity Associate (CJCA)",
+      "issuer": "Hack The Box",
+      "date": "In Progress"
+    }
+  ],
+
+  "work": [
+    {
+      "company": "Stir Beverage, LLC",
+      "position": "Bartender",
+      "website": "",
+      "startDate": "2026-01-01",
       "endDate": "Present",
-      "courses": [ "Software Engineering I, CSCI Discrete Mathematics I, Disc Math for Comp Sci II, Program Structure, CSCI Intro to Computer Science I"
+      "summary": "Kailua, HI",
+      "highlights": [
+        "Provide attentive bar service in fast-paced environments while maintaining accuracy and composure under pressure.",
+        "Follow established service, safety, and compliance procedures during high-volume operations."
+      ]
+    },
+    {
+      "company": "Hoku Events & Hospitality",
+      "position": "Bartender / Barback",
+      "website": "",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Haleiwa, HI",
+      "highlights": [
+        "Promoted from Barback to Bartender; continue to cover both roles based on shift needs.",
+        "Provide professional service to diverse clientele in event and bar settings.",
+        "Coordinate with teammates in real time to keep operations smooth through changing conditions."
+      ]
+    },
+    {
+      "company": "Memoirs",
+      "position": "Event Server",
+      "website": "",
+      "startDate": "2024-03-30",
+      "endDate": "2025-12-31",
+      "summary": "Honolulu, HI",
+      "highlights": [
+        "Delivered consistent service during high-volume events and resolved time-sensitive issues calmly.",
+        "Maintained clean, organized work areas while following health and safety procedures."
+      ]
+    },
+    {
+      "company": "Aloha Hospitality Professionals",
+      "position": "Server Captain / Event Server",
+      "website": "",
+      "startDate": "2019-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Honolulu, HI",
+      "highlights": [
+        "Promoted from Event Server to Server Captain; led and coordinated a team of servers during events.",
+        "Executed event setups and breakdowns on tight timelines with strong attention to detail.",
+        "Worked with diverse teams to keep service smooth and professional through busy events."
       ]
     }
   ],
 
-    "work": [
-    {
-      "company": "Memoirs",
-      "position": "Event staff",
-      "website": "",
-      "startDate": "2024-30-03",
-      "endDate": "Present",
-      "summary": "Part-Time Gig",
-      "highlights": [
-        "Ensure seamless server performance and guest satisfaction",
-        "Set up event",
-      ]
-    }
-  ],
-  
   "awards": [
+    {
+      "title": "Cum Laude",
+      "date": "2025",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "Graduated with honors based on cumulative GPA of 3.67."
+    },
     {
       "title": "Dean's List",
       "date": "2021, 2022, 2023",
       "awarder": "Leeward Community College",
-      "summary": "The Dean’s List recognizes students who maintain outstanding academic records at Leeward Community College."
+      "summary": "Recognized for outstanding academic achievement."
     }
   ],
-  
-  "Activities":  [
-    {
-      "name": "study",
-      "keywords": [ "Hike" , "nature", "traveler" ,"explore"  ]
-    }
-  ],
-  
+
   "references": [
     {
       "name": "Available upon request"
     }
   ]
 }
-
-
