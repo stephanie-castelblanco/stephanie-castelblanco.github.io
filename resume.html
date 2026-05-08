@@ -9,6 +9,9 @@ layout: home
     <div class="row">
       <div class="col">
         <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
+        {% if site.data.bio.basics.label %}
+          <p class="lead text-center text-muted">{{ site.data.bio.basics.label }}</p>
+        {% endif %}
       </div>
     </div>
 
@@ -35,6 +38,17 @@ layout: home
         <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p>
       </div>
     </div>
+
+    {% if site.data.bio.basics.summary %}
+    <div class="row pt-4 align-items-start">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Summary</h1>
+      </div>
+      <div class="col-lg-9">
+        <p class="m-0">{{ site.data.bio.basics.summary }}</p>
+      </div>
+    </div>
+    {% endif %}
 
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
@@ -64,6 +78,30 @@ layout: home
                 {{ keyword }}{% if forloop.last != true %}, {% endif %}
               {% endfor %}
           </p>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if site.data.bio.certifications %}
+    <div class="row pt-4 align-items-start">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Certifications</h1>
+      </div>
+      <div class="col-lg-9">
+        {% for entry in site.data.bio.certifications %}
+          <div class="row mb-3">
+            <div class="col-9">
+              <p class="m-0"><b>{{ entry.name }}</b></p>
+              <p class="m-0">{{ entry.issuer }}{% if entry.credentialId %} &middot; ID: {{ entry.credentialId }}{% endif %}</p>
+              {% if entry.expires %}
+                <p class="m-0 text-muted"><small>Expires: {{ entry.expires }}</small></p>
+              {% endif %}
+            </div>
+            <div class="col-3">
+              <p class="m-0 text-end">{{ entry.date }}</p>
+            </div>
+          </div>
         {% endfor %}
       </div>
     </div>
@@ -121,8 +159,12 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-              <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.summary }}</p>
+              {% if entry.website and entry.website != "" %}
+                <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+              {% endif %}
+              {% if entry.summary and entry.summary != "" %}
+                <p class="mb-0 text-muted"><em>{{ entry.summary }}</em></p>
+              {% endif %}
               {% if entry.highlights %}
                 <ul>
                   {% for highlight in entry.highlights %}
