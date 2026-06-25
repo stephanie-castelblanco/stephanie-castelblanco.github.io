@@ -17,7 +17,7 @@ summary: "Connected two security tools so that alerts from one (Wazuh) flow into
 
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue) ![Splunk](https://img.shields.io/badge/Log_Analytics-Splunk-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-<img width="200px" class="img-fluid mb-3" src="../img/02-splunk-events.png" alt="Wazuh alerts arriving in Splunk">
+<img width="600px" class="img-fluid mb-3" src="../img/02-splunk-events.png" alt="Wazuh alerts arriving in Splunk">
 
 ## What this project is
 
