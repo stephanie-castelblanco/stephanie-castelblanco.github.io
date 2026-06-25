@@ -21,7 +21,7 @@ summary: "Connected two security tools so that alerts from one (Wazuh) flow into
 <!-- Banner = the Splunk search showing alerts arrived (most visual proof it works).
      To swap it later, change the src above to another screenshot path. -->
 
-## What this project is (in plain English)
+## What this project is
 
 I connected two popular security tools so they work together:
 
@@ -97,12 +97,12 @@ Splunk (search engine) — now I can search every alert
 - **Troubleshooting counts.** I hit a few snags — a missing alert file, a closed firewall door — and fixed each one.
 
 <!-- ============================================================
-     PRIVATE — FOR MY EYES ONLY (this whole block is hidden on the
-     published page; it only shows when you open the raw file).
+     PRIVATE — FOR MY EYES ONLY 
 
      MY 30-SECOND INTERVIEW SCRIPT:
      "I connected Wazuh, which watches computers for suspicious
      activity, to Splunk, which is a search tool for security data.
+     
      I set it up so Wazuh's alerts automatically flow into Splunk,
      then I searched Splunk to confirm everything arrived and sorted
      the alerts by how serious they were. It's the same basic
