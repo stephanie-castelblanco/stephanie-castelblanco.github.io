@@ -1,7 +1,6 @@
 /* Default theme. Simple, yet elegant. */
 /* Use Open Sans as the default sans serif font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
-/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
@@ -12,7 +11,6 @@
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--bs-gray-100);
 }
-/* Format social media icons */
 .tf-social {
   display: inline-block;
   fill: var(--tf-icon-fill);
@@ -27,22 +25,15 @@
 a {
   text-decoration: none;
 }
-/* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
 }
 
-/* =========================================================
-   PROJECT CARD IMAGE FIX
-   The card image has height="225px" but no width, so wide
-   screenshots stretch past their column. This forces every
-   card image to fill its column at a fixed height and crop
-   neatly — so all cards are the same size.
-   ========================================================= */
+/* ===== PROJECT CARD IMAGE FIX ===== */
 .card .row img {
-  width: 100% !important;     /* fill the image column, never overflow */
-  height: 225px !important;   /* same height as the template default */
-  object-fit: cover !important;       /* crop to fit instead of stretching */
-  object-position: top center !important;  /* keep the top of the image visible */
+  width: 100% !important;
+  height: 225px !important;
+  object-fit: cover !important;
+  object-position: top center !important;
 }
