@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/022-splunk-events.png
+image: img/02-splunk-events.png
 title: "Wazuh → Splunk Integration"
 date: 2026
 published: true
