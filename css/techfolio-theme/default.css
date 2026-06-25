@@ -32,3 +32,17 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+/* =========================================================
+   PROJECT CARD IMAGE FIX
+   The card image has height="225px" but no width, so wide
+   screenshots stretch past their column. This forces every
+   card image to fill its column at a fixed height and crop
+   neatly — so all cards are the same size.
+   ========================================================= */
+.card .row img {
+  width: 100% !important;     /* fill the image column, never overflow */
+  height: 225px !important;   /* same height as the template default */
+  object-fit: cover !important;       /* crop to fit instead of stretching */
+  object-position: top center !important;  /* keep the top of the image visible */
+}
