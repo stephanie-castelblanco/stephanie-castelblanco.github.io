@@ -1,3 +1,21 @@
+---
+layout: project
+type: project
+image: img/wazuh-splunk-landing.png
+title: "Wazuh → Splunk Integration"
+date: 2026
+published: true
+labels:
+Wazuh
+Splunk
+SIEM
+Ubuntu
+SPL
+summary: "Built an end-to-end Wazuh to Splunk log-forwarding pipeline in a home-lab SOC environment, forwarding JSON security alerts into Splunk and validating them with SPL searches."
+---
+<br />
+
+
 # Project A — Wazuh → Splunk Integration
 
 A home-lab SOC project that forwards Wazuh security alerts into Splunk Enterprise, then validates the data with SPL searches.
