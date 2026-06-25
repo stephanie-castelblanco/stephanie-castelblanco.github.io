@@ -20,7 +20,7 @@
   display: inline-block;
   fill: var(--tf-icon-fill);
   height: 1.5em;
-  vertical-align: -.1em;
+  vertical-align: -0.1em;
   width: 1.5em;
   transition: 0.2s;
 }
@@ -37,4 +37,74 @@ a {
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
+}
+
+/* =========================================================
+   Project card image fix
+   Keeps screenshots from covering the project title/text.
+   ========================================================= */
+
+.card {
+  overflow: hidden;
+}
+
+/* Main image sizing for project cards */
+.card img,
+.card-img,
+.card-img-top,
+.project-card img,
+.tf-project-card img {
+  width: 420px !important;
+  max-width: 420px !important;
+  height: 240px !important;
+  object-fit: cover !important;
+  object-position: top left !important;
+  border-radius: 8px !important;
+  display: block !important;
+  flex-shrink: 0 !important;
+}
+
+/* Fix cards that use a left image + right text layout */
+.card .row,
+.project-card,
+.tf-project-card {
+  align-items: center !important;
+}
+
+/* Make sure project text stays above/next to the image */
+.card-body {
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+}
+
+/* Prevent project screenshots from floating over text */
+.card a img,
+.card > img {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Mobile fix */
+@media (max-width: 768px) {
+  .card img,
+  .card-img,
+  .card-img-top,
+  .project-card img,
+  .tf-project-card img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .card .row,
+  .project-card,
+  .tf-project-card {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+
+  .card-body {
+    width: 100% !important;
+  }
 }
