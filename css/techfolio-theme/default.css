@@ -40,71 +40,88 @@ a {
 }
 
 /* =========================================================
-   Project card image fix
-   Keeps screenshots from covering the project title/text.
+   FIX PROJECT CARD IMAGE OVERLAP
+   This keeps the project screenshot inside the left side
+   and prevents it from covering the title/text.
    ========================================================= */
 
+/* Keep the whole card clean */
 .card {
-  overflow: hidden;
+  overflow: hidden !important;
 }
 
-/* Main image sizing for project cards */
-.card img,
-.card-img,
-.card-img-top,
-.project-card img,
-.tf-project-card img {
-  width: 420px !important;
-  max-width: 420px !important;
+/* Force Bootstrap project cards into proper left/right layout */
+.card .row {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  align-items: stretch !important;
+}
+
+/* Left image column */
+.card .row > div:first-child {
+  flex: 0 0 34% !important;
+  max-width: 34% !important;
+  overflow: hidden !important;
+}
+
+/* Right text column */
+.card .row > div:last-child {
+  flex: 1 1 auto !important;
+  max-width: 66% !important;
+  min-width: 0 !important;
+  position: relative !important;
+  z-index: 2 !important;
+  background: var(--bs-white) !important;
+}
+
+/* Project screenshot image */
+.card .row > div:first-child img,
+.card img.img-fluid,
+.card img.card-img,
+.card img.card-img-top {
+  width: 100% !important;
+  max-width: 100% !important;
   height: 240px !important;
   object-fit: cover !important;
   object-position: top left !important;
-  border-radius: 8px !important;
   display: block !important;
-  flex-shrink: 0 !important;
-}
-
-/* Fix cards that use a left image + right text layout */
-.card .row,
-.project-card,
-.tf-project-card {
-  align-items: center !important;
-}
-
-/* Make sure project text stays above/next to the image */
-.card-body {
-  position: relative;
-  z-index: 2;
-  overflow: hidden;
-}
-
-/* Prevent project screenshots from floating over text */
-.card a img,
-.card > img {
   position: relative !important;
   z-index: 1 !important;
+  border-radius: 8px 0 0 8px !important;
 }
 
-/* Mobile fix */
+/* Keep text above everything */
+.card-body {
+  position: relative !important;
+  z-index: 3 !important;
+  background: var(--bs-white) !important;
+  padding-left: 1.5rem !important;
+}
+
+/* Mobile layout */
 @media (max-width: 768px) {
-  .card img,
-  .card-img,
-  .card-img-top,
-  .project-card img,
-  .tf-project-card img {
+  .card .row {
+    flex-direction: column !important;
+    flex-wrap: wrap !important;
+  }
+
+  .card .row > div:first-child,
+  .card .row > div:last-child {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+
+  .card .row > div:first-child img,
+  .card img.img-fluid,
+  .card img.card-img,
+  .card img.card-img-top {
     width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
-  }
-
-  .card .row,
-  .project-card,
-  .tf-project-card {
-    flex-direction: column !important;
-    align-items: flex-start !important;
+    border-radius: 8px 8px 0 0 !important;
   }
 
   .card-body {
-    width: 100% !important;
+    padding-left: 1rem !important;
   }
 }
