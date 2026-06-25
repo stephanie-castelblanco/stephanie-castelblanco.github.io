@@ -1,8 +1,6 @@
 /* Default theme. Simple, yet elegant. */
-
 /* Use Open Sans as the default sans serif font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
-
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --bs-font-sans-serif: "Open Sans", sans-serif;
@@ -14,7 +12,6 @@
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--bs-gray-100);
 }
-
 /* Format social media icons */
 .tf-social {
   display: inline-block;
@@ -24,15 +21,12 @@
   width: 1.5em;
   transition: 0.2s;
 }
-
 .tf-social:hover {
   fill: var(--tf-icon-hover);
 }
-
 a {
   text-decoration: none;
 }
-
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
   background-color: var(--bs-white);
@@ -40,88 +34,81 @@ a {
 }
 
 /* =========================================================
-   FIX PROJECT CARD IMAGE OVERLAP
-   This keeps the project screenshot inside the left side
-   and prevents it from covering the title/text.
+   PROJECT CARD FIX
+   Keeps the project screenshot neatly inside the left
+   column and stops it from covering the title/text.
    ========================================================= */
 
-/* Keep the whole card clean */
+/* Clip anything that tries to spill outside the card */
 .card {
   overflow: hidden !important;
 }
 
-/* Force Bootstrap project cards into proper left/right layout */
+/* Make the card a clean two-column row that never wraps */
 .card .row {
   display: flex !important;
   flex-wrap: nowrap !important;
   align-items: stretch !important;
+  margin: 0 !important;
 }
 
-/* Left image column */
+/* LEFT: image column — fixed share of the width */
 .card .row > div:first-child {
-  flex: 0 0 34% !important;
-  max-width: 34% !important;
+  flex: 0 0 38% !important;
+  max-width: 38% !important;
   overflow: hidden !important;
+  padding: 0 !important;
 }
 
-/* Right text column */
+/* RIGHT: text column — takes the rest, sits on top */
 .card .row > div:last-child {
   flex: 1 1 auto !important;
-  max-width: 66% !important;
+  max-width: 62% !important;
   min-width: 0 !important;
   position: relative !important;
   z-index: 2 !important;
   background: var(--bs-white) !important;
 }
 
-/* Project screenshot image */
+/* The screenshot itself: fill its column, crop neatly, never overflow */
 .card .row > div:first-child img,
 .card img.img-fluid,
 .card img.card-img,
 .card img.card-img-top {
   width: 100% !important;
+  height: 100% !important;
   max-width: 100% !important;
-  height: 240px !important;
   object-fit: cover !important;
   object-position: top left !important;
   display: block !important;
-  position: relative !important;
-  z-index: 1 !important;
-  border-radius: 8px 0 0 8px !important;
+  border-radius: 0 !important;
 }
 
-/* Keep text above everything */
+/* Keep the text comfortably padded and above the image */
 .card-body {
   position: relative !important;
   z-index: 3 !important;
   background: var(--bs-white) !important;
-  padding-left: 1.5rem !important;
+  padding: 1.25rem 1.5rem !important;
 }
 
-/* Mobile layout */
+/* ---------- Mobile: stack image on top, text below ---------- */
 @media (max-width: 768px) {
   .card .row {
     flex-direction: column !important;
     flex-wrap: wrap !important;
   }
-
   .card .row > div:first-child,
   .card .row > div:last-child {
     flex: 0 0 100% !important;
     max-width: 100% !important;
   }
-
   .card .row > div:first-child img,
   .card img.img-fluid,
   .card img.card-img,
   .card img.card-img-top {
     width: 100% !important;
-    max-width: 100% !important;
-    height: auto !important;
-    border-radius: 8px 8px 0 0 !important;
-  }
-
-  .card-body {
-    padding-left: 1rem !important;
+    height: 200px !important;
+    border-radius: 0 !important;
   }
 }
