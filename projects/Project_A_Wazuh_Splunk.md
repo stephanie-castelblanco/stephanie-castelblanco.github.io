@@ -43,7 +43,7 @@ My job was to make Wazuh's alerts automatically travel into Splunk, then prove t
 
 A couple of words that show up a lot:
 
-- **SIEM** (say "sim") = Security Information and Event Management. A fancy term for a tool that collects security alerts in one place and lets you search them. Splunk is a SIEM.
+- **SIEM** = Security Information and Event Management. A fancy term for a tool that collects security alerts in one place and lets you search them. Splunk is a SIEM.
 - **SPL** = Splunk Processing Language. The way you *ask Splunk questions*, like typing a search into Google. Example: `index=wazuh` means "show me the Wazuh alerts."
 
 ## How it works
