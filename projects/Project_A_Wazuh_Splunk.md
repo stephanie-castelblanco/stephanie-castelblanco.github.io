@@ -128,7 +128,7 @@ index=wazuh | stats count by rule.level | sort -rule.level
 
 <img width="600px" class="img-fluid mb-3" src="../img/Project-A/03-alerts-json-exists.png" alt="Wazuh alerts.json file">
 
-**4. Alerts counted by severity level** — levels 3 (125), 4 (1), and 7 (109)
+**4. Alerts counted by severity level** — levels 3  (144), 4 (1), 5 (1), and 7 (109).
 
 <img width="600px" class="img-fluid mb-3" src="../img/Project-A/04-rule-level-count.png" alt="Wazuh alerts by severity">
 
