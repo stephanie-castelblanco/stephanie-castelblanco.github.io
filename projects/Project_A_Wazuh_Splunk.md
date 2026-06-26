@@ -10,105 +10,172 @@ labels:
   - Splunk
   - SIEM
   - Ubuntu
-summary: "Connected two security tools so that alerts from one (Wazuh) flow into the other (Splunk), then searched and confirmed the data — the same workflow a Security Operations Center uses every day."
+summary: "I connected Wazuh and Splunk so security alerts from my Ubuntu server could be sent, searched, and analyzed in Splunk."
 ---
 
 <br />
 
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue) ![Splunk](https://img.shields.io/badge/Log_Analytics-Splunk-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-<img width="600px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png">
-
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Wazuh alerts in Splunk">
 
 ## What this project is
 
-I connected two popular security tools so they work together:
+This project connected **Wazuh** and **Splunk** together.
 
-- **Wazuh** watches a computer and writes down anything suspicious (someone logging in, using admin powers, etc.). Think of it as the **security camera**.
-- **Splunk** collects all those notes in one place so you can search them fast. Think of it as the **search engine for the camera footage**.
+- **Wazuh** watched my Ubuntu server and created security alerts.
+- **Splunk** received those alerts so I could search and analyze them.
 
-My job was to make Wazuh's alerts automatically travel into Splunk, then prove the data arrived by searching it. This is exactly what a **SOC (Security Operations Center)** — the team that watches for cyberattacks — does all day.
+Simple explanation:
+
+> **Wazuh finds alerts. Splunk helps me search the alerts.**
+
+This is a basic SOC workflow. A SOC analyst needs to collect security data, search it, and understand what happened.
 
 ## Tools used
 
-- **Wazuh Manager:** Created security alerts from Ubuntu activity and wrote them to `alerts.json`.
-- **Splunk Enterprise:** Stored and searched the Wazuh alert data.
-- **Splunk Universal Forwarder:** Sent Wazuh alert logs from Ubuntu to Splunk.
-- **Ubuntu Server:** Hosted the Wazuh Manager and generated the alert data.
+- **Ubuntu Server:** The machine being monitored.
+- **Wazuh Agent:** Watched the Ubuntu server for activity.
+- **Wazuh Manager:** Processed the activity and created alerts.
+- **Splunk Universal Forwarder:** Sent Wazuh alerts from Ubuntu to Splunk.
+- **Splunk Enterprise:** Stored and searched the alerts.
 - **Windows Host:** Ran Splunk Enterprise and received logs on port `9997`.
-
-A couple of words that show up a lot:
-
-- **SIEM** = Security Information and Event Management. A fancy term for a tool that collects security alerts in one place and lets you search them. Splunk is a SIEM.
-- **SPL** = Splunk Processing Language. The way you *ask Splunk questions*, like typing a search into Google. Example: `index=wazuh` means "show me the Wazuh alerts."
 
 ## How it works
 
-```
-Wazuh (security camera)
-        │
-        │  alerts get picked up
-        ▼
-Universal Forwarder (delivery truck)
-        │
-        │  carries them across
-        ▼
-Splunk (search engine) — now I can search every alert
+```text
+Ubuntu Server
+   ↓
+Wazuh detects activity
+   ↓
+Wazuh writes alerts to alerts.json
+   ↓
+Splunk Universal Forwarder sends the alerts
+   ↓
+Splunk receives the alerts
+   ↓
+I search the alerts in Splunk
 ```
 
-## What I did, step by step
+## What I did
 
-1. Set up Wazuh on the Ubuntu computer so it started writing down alerts.
-2. Installed the "delivery truck" (Universal Forwarder) to carry those alerts.
-3. Set up a labeled folder in Splunk (called `wazuh`) to keep the alerts organized.
-4. Opened the right "door" (network port 9997) so the two computers could talk.
-5. Searched Splunk and confirmed the alerts had arrived.
+1. Confirmed the Wazuh Manager was running on Ubuntu.
+2. Installed the Wazuh Agent on the Ubuntu server.
+3. Confirmed the Wazuh Agent was active.
+4. Installed the Splunk Universal Forwarder on Ubuntu.
+5. Created a Splunk receiving port on `9997`.
+6. Created a Splunk index named `wazuh`.
+7. Forwarded this Wazuh alert file into Splunk:
+
+```bash
+/var/ossec/logs/alerts/alerts.json
+```
+
+8. Created safe test activity so Wazuh would generate alerts.
+9. Searched Splunk to confirm the alerts arrived.
+
+## How I created test alerts
+
+At first, there were not many alerts because my Ubuntu server was quiet.
+
+That helped me understand something important:
+
+> **No activity means no alerts.**
+
+To test the setup safely, I created simple activity on Ubuntu, like failed `sudo` attempts. This caused Wazuh to generate alerts.
+
+Then I checked the Wazuh alert file:
+
+```bash
+sudo tail -n 20 /var/ossec/logs/alerts/alerts.json
+```
+
+After that, I searched for the alerts in Splunk.
+
+*(Note: screenshot of the failed sudo test is pending — I will add it on my next lab session.)*
+
+## Splunk searches I used
+
+Show Wazuh events:
+
+```spl
+index=wazuh | head 20
+```
+
+Count alerts by rule description:
+
+```spl
+index=wazuh | stats count by rule.description | sort -count
+```
+
+Count alerts by severity level:
+
+```spl
+index=wazuh | stats count by rule.level | sort -rule.level
+```
 
 ## Proof it worked
 
-**1. Wazuh is running and watching** — the security camera is on.
+**1. Wazuh Manager was running**
 
-<img width="600px" class="img-fluid mb-3" src="../img/Project-A/01-wazuh-manager-active.png" alt="Wazuh running">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/01-wazuh-manager-active.png" alt="Wazuh manager running">
 
-**2. The alerts arrived in Splunk** — I searched and the security notes showed up.
+**2. Wazuh alerts arrived in Splunk**
 
-<img width="600px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Alerts in Splunk">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Wazuh alerts in Splunk">
 
-**3. The alert file exists** — proof Wazuh was writing down activity.
+**3. The Wazuh alert file existed on Ubuntu**
 
-<img width="600px" class="img-fluid mb-3" src="../img/Project-A/03-alerts-json-exists.png" alt="Alert file exists">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/03-alerts-json-exists.png" alt="Wazuh alerts.json file">
 
-**4. Alerts sorted by how serious they are** — low, medium, and higher-priority counts.
+**4. Alerts counted by severity level** — levels 3 (125), 4 (1), and 7 (109)
 
-<img width="600px" class="img-fluid mb-3" src="../img/Project-A/04-rule-level-count.png" alt="Alerts by severity">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/04-rule-level-count.png" alt="Wazuh alerts by severity">
 
-**5. The most common alerts** — logins, admin (sudo) use, and security check results.
+**5. Common alert types** — PAM logins, successful sudo to root, and CIS Ubuntu benchmark findings
 
-<img width="600px" class="img-fluid mb-3" src="../img/Project-A/05-top-rule-descriptions.png" alt="Most common alerts">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/05-top-rule-descriptions.png" alt="Top Wazuh rule descriptions">
 
 ## What I learned
 
-- **Two tools, one pipeline.** Getting separate security tools to talk to each other is a core SOC skill.
-- **The right setup matters.** If a network "door" (port 9997) is closed, no data flows — a common real-world problem.
-- **Searching is the job.** Once data is in Splunk, asking the right questions (with SPL) is how an analyst finds threats.
-- **Troubleshooting counts.** I hit a few snags — a missing alert file, a closed firewall door — and fixed each one.
+- **Wazuh detects security activity.**
+- **Splunk helps search and analyze alerts.**
+- **The Universal Forwarder moves logs from one system to another.**
+- **Port `9997` must be open so Splunk can receive logs.**
+- **If there is no activity, there may be no alerts.**
+- **Creating safe test activity is a good way to prove the pipeline works.**
+
+## Interview explanation
+
+If someone asks me about this project, I can say:
+
+> I built a small SOC lab using Wazuh and Splunk. Wazuh monitored my Ubuntu server and created alerts. Then I used the Splunk Universal Forwarder to send those alerts into Splunk. I created safe test activity, like failed sudo attempts, and confirmed the alerts appeared in Splunk.
+
+Short version:
+
+> **Wazuh finds alerts. Splunk analyzes alerts.**
 
 <!-- ============================================================
-     PRIVATE — FOR MY EYES ONLY
-     (This whole block is hidden on the published page.
-     It only shows when you open the raw file.)
+PRIVATE — FOR MY EYES ONLY
 
-     MY 30-SECOND INTERVIEW SCRIPT:
-     "I connected Wazuh, which watches computers for suspicious
-     activity, to Splunk, which is a search tool for security data.
+30-SECOND INTERVIEW SCRIPT:
 
-     I set it up so Wazuh's alerts automatically flow into Splunk,
-     then I searched Splunk to confirm everything arrived and sorted
-     the alerts by how serious they were. It's the same basic
-     workflow a Security Operations Center uses to catch attacks."
+"I built a small SOC lab with Wazuh and Splunk. Wazuh watched my
+Ubuntu server and created security alerts. I used the Splunk Universal
+Forwarder to send those alerts into Splunk. Then I searched the alerts
+in Splunk to confirm the data was working.
 
-     If someone asks "what's SPL?" → "It's how you search in Splunk,
-     like typing into Google."
+One thing I learned is that if nothing happens on the server, there may
+not be many alerts. So I created safe test activity, like failed sudo
+attempts, to prove Wazuh was detecting activity and Splunk was receiving it."
+
+MEMORY:
+Wazuh = detects alerts
+Splunk = searches alerts
+Ubuntu = monitored machine
+Windows = Splunk machine
+
+TO DO: add screenshot of the failed sudo test next lab session.
 ============================================================ -->
 
 ---
