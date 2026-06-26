@@ -92,7 +92,8 @@ sudo tail -n 20 /var/ossec/logs/alerts/alerts.json
 
 After that, I searched for the alerts in Splunk.
 
-*(Note: screenshot of the failed sudo test is pending — I will add it on my next lab session.)*
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/06-failed-sudo-test.png" alt="Wazuh alerts in Splunk">
+
 
 ## Splunk searches I used
 
