@@ -145,6 +145,11 @@ index=wazuh | stats count by rule.level | sort -rule.level
 - **If there is no activity, there may be no alerts.**
 - **Creating safe test activity is a good way to prove the pipeline works.**
 
+
+<!-- ============================================================
+PRIVATE — FOR MY EYES ONLY
+
+
 ## Interview explanation
 
 If someone asks me about this project, I can say:
@@ -155,8 +160,7 @@ Short version:
 
 > **Wazuh finds alerts. Splunk analyzes alerts.**
 
-<!-- ============================================================
-PRIVATE — FOR MY EYES ONLY
+
 
 30-SECOND INTERVIEW SCRIPT:
 
