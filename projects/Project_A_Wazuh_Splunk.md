@@ -17,7 +17,7 @@ summary: "I connected Wazuh and Splunk so security alerts from my Ubuntu server 
 
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue) ![Splunk](https://img.shields.io/badge/Log_Analytics-Splunk-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-<img width="700px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Wazuh alerts in Splunk">
+<img width="750px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Wazuh alerts in Splunk">
 
 ## What this project is
 
@@ -92,7 +92,7 @@ sudo tail -n 20 /var/ossec/logs/alerts/alerts.json
 
 After that, I searched for the alerts in Splunk.
 
-<img width="700px" class="img-fluid mb-3" src="../img/Project-A/06-failed-sudo-test.png" alt="Wazuh alerts in Splunk">
+<img width="750px" class="img-fluid mb-3" src="../img/Project-A/06-failed-sudo-test.png" alt="Wazuh alerts in Splunk">
 
 
 ## Splunk searches I used
@@ -123,7 +123,7 @@ index=wazuh | stats count by rule.level | sort -rule.level
 
 **2. Wazuh alerts arrived in Splunk**
 
-<img width="700px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Wazuh alerts in Splunk">
+<img width="750px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Wazuh alerts in Splunk">
 
 **3. The Wazuh alert file existed on Ubuntu**
 
@@ -135,7 +135,7 @@ index=wazuh | stats count by rule.level | sort -rule.level
 
 **5. Common alert types** — PAM logins, successful sudo to root, and CIS Ubuntu benchmark findings
 
-<img width="700px" class="img-fluid mb-3" src="../img/Project-A/05-top-rule-descriptions.png" alt="Top Wazuh rule descriptions">
+<img width="750px" class="img-fluid mb-3" src="../img/Project-A/05-top-rule-descriptions.png" alt="Top Wazuh rule descriptions">
 
 ## What I learned
 
