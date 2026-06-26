@@ -39,6 +39,40 @@ My job was to make Wazuh's alerts automatically travel into Splunk, then prove t
 | **Ubuntu Server** | The computer Wazuh runs on. |
 | **Windows host** | The computer Splunk runs on. |
 
+<h2>The tools, explained simply</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tool</th>
+      <th>What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Wazuh</strong></td>
+      <td>The security camera. Spots suspicious activity and writes it down.</td>
+    </tr>
+    <tr>
+      <td><strong>Splunk</strong></td>
+      <td>The search engine. Stores all the alerts so you can look through them fast.</td>
+    </tr>
+    <tr>
+      <td><strong>Universal Forwarder</strong></td>
+      <td>The delivery truck. Carries Wazuh's alerts to Splunk.</td>
+    </tr>
+    <tr>
+      <td><strong>Ubuntu Server</strong></td>
+      <td>The computer where Wazuh Manager runs.</td>
+    </tr>
+    <tr>
+      <td><strong>Windows Host</strong></td>
+      <td>The computer where Splunk Enterprise runs.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 A couple of words that show up a lot:
 
 - **SIEM** = Security Information and Event Management. A fancy term for a tool that collects security alerts in one place and lets you search them. Splunk is a SIEM.
