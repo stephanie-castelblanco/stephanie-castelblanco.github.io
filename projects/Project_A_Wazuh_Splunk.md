@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/022-splunk-events.png
+image: /img/Project-A/022-splunk-events.png
 title: "Wazuh → Splunk Integration"
 date: 2026
 published: true
@@ -17,7 +17,7 @@ summary: "Connected two security tools so that alerts from one (Wazuh) flow into
 
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue) ![Splunk](https://img.shields.io/badge/Log_Analytics-Splunk-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-<img width="600px" class="img-fluid mb-3" src="../img/02-splunk-events.png">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png">
 
 
 ## What this project is
@@ -70,23 +70,23 @@ Splunk (search engine) — now I can search every alert
 
 **1. Wazuh is running and watching** — the security camera is on.
 
-<img width="600px" class="img-fluid mb-3" src="../img/01-wazuh-manager-active.png" alt="Wazuh running">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/01-wazuh-manager-active.png" alt="Wazuh running">
 
 **2. The alerts arrived in Splunk** — I searched and the security notes showed up.
 
-<img width="600px" class="img-fluid mb-3" src="../img/02-splunk-events.png" alt="Alerts in Splunk">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/02-splunk-events.png" alt="Alerts in Splunk">
 
 **3. The alert file exists** — proof Wazuh was writing down activity.
 
-<img width="600px" class="img-fluid mb-3" src="../img/03-alerts-json-exists.png" alt="Alert file exists">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/03-alerts-json-exists.png" alt="Alert file exists">
 
 **4. Alerts sorted by how serious they are** — low, medium, and higher-priority counts.
 
-<img width="600px" class="img-fluid mb-3" src="../img/04-rule-level-count.png" alt="Alerts by severity">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/04-rule-level-count.png" alt="Alerts by severity">
 
 **5. The most common alerts** — logins, admin (sudo) use, and security check results.
 
-<img width="600px" class="img-fluid mb-3" src="../img/05-top-rule-descriptions.png" alt="Most common alerts">
+<img width="600px" class="img-fluid mb-3" src="../img/Project-A/05-top-rule-descriptions.png" alt="Most common alerts">
 
 ## What I learned
 
