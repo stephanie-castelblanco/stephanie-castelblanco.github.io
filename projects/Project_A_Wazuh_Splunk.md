@@ -29,49 +29,13 @@ I connected two popular security tools so they work together:
 
 My job was to make Wazuh's alerts automatically travel into Splunk, then prove the data arrived by searching it. This is exactly what a **SOC (Security Operations Center)** — the team that watches for cyberattacks — does all day.
 
-## The tools, explained simply
+## Tools used
 
-| Tool | What it does |
-| --- | --- |
-| **Wazuh** | The security camera. Spots suspicious activity and writes it down. |
-| **Splunk** | The search engine. Stores all the alerts so you can look through them fast. |
-| **Universal Forwarder** | The delivery truck. Carries Wazuh's notes over to Splunk. |
-| **Ubuntu Server** | The computer Wazuh runs on. |
-| **Windows host** | The computer Splunk runs on. |
-
-<h2>The tools, explained simply</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Tool</th>
-      <th>What it does</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Wazuh</strong></td>
-      <td>The security camera. Spots suspicious activity and writes it down.</td>
-    </tr>
-    <tr>
-      <td><strong>Splunk</strong></td>
-      <td>The search engine. Stores all the alerts so you can look through them fast.</td>
-    </tr>
-    <tr>
-      <td><strong>Universal Forwarder</strong></td>
-      <td>The delivery truck. Carries Wazuh's alerts to Splunk.</td>
-    </tr>
-    <tr>
-      <td><strong>Ubuntu Server</strong></td>
-      <td>The computer where Wazuh Manager runs.</td>
-    </tr>
-    <tr>
-      <td><strong>Windows Host</strong></td>
-      <td>The computer where Splunk Enterprise runs.</td>
-    </tr>
-  </tbody>
-</table>
-
+- **Wazuh Manager:** Created security alerts from Ubuntu activity and wrote them to `alerts.json`.
+- **Splunk Enterprise:** Stored and searched the Wazuh alert data.
+- **Splunk Universal Forwarder:** Sent Wazuh alert logs from Ubuntu to Splunk.
+- **Ubuntu Server:** Hosted the Wazuh Manager and generated the alert data.
+- **Windows Host:** Ran Splunk Enterprise and received logs on port `9997`.
 
 A couple of words that show up a lot:
 
